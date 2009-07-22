@@ -1,0 +1,80 @@
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\PraetorianConsole.Contracts.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\PraetorianConsole.Contracts.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\PraetorianConsole.exe
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\PraetorianConsole.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\ExpenseDomain.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\Foundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\NHibExpense.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\NHibernate.Linq.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\FluentNHibernate.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\Iesi.Collections.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\log4net.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\NHibernate.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\Castle.Core.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\NHibExpense.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\Foundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\ExpenseDomain.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\obj\Debug\PraetorianConsole.exe
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\obj\Debug\PraetorianConsole.pdb
+H:\Praetorian\PraetorianConsole\obj\Debug\PraetorianConsole.exe
+H:\Praetorian\PraetorianConsole\obj\Debug\PraetorianConsole.pdb
+H:\Praetorian\PraetorianConsole\bin\Debug\PraetorianConsole.Contracts.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\PraetorianConsole.Contracts.pdb
+H:\Praetorian\PraetorianConsole\bin\Debug\PraetorianConsole.exe
+H:\Praetorian\PraetorianConsole\bin\Debug\PraetorianConsole.pdb
+H:\Praetorian\PraetorianConsole\bin\Debug\ExpenseDomain.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\Foundation.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\NHibExpense.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\NHibernate.Linq.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\Castle.DynamicProxy2.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\FluentNHibernate.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\Iesi.Collections.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\log4net.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\NHibernate.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\Castle.Core.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\NHibExpense.pdb
+H:\Praetorian\PraetorianConsole\bin\Debug\Foundation.pdb
+H:\Praetorian\PraetorianConsole\bin\Debug\ExpenseDomain.pdb
+H:\Praetorian\PraetorianConsole\obj\Debug\ResolveAssemblyReference.cache
+G:\Praetorian\PraetorianConsole\obj\Debug\PraetorianConsole.exe
+G:\Praetorian\PraetorianConsole\obj\Debug\PraetorianConsole.pdb
+G:\Praetorian\PraetorianConsole\bin\Debug\PraetorianConsole.exe
+G:\Praetorian\PraetorianConsole\bin\Debug\PraetorianConsole.pdb
+G:\Praetorian\PraetorianConsole\bin\Debug\ExpenseDomain.dll
+G:\Praetorian\PraetorianConsole\bin\Debug\Foundation.dll
+G:\Praetorian\PraetorianConsole\bin\Debug\NHibExpense.dll
+G:\Praetorian\PraetorianConsole\bin\Debug\NHibernate.Linq.dll
+G:\Praetorian\PraetorianConsole\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+G:\Praetorian\PraetorianConsole\bin\Debug\Castle.DynamicProxy2.dll
+G:\Praetorian\PraetorianConsole\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Praetorian\PraetorianConsole\bin\Debug\FluentNHibernate.dll
+G:\Praetorian\PraetorianConsole\bin\Debug\Iesi.Collections.dll
+G:\Praetorian\PraetorianConsole\bin\Debug\log4net.dll
+G:\Praetorian\PraetorianConsole\bin\Debug\NHibernate.dll
+G:\Praetorian\PraetorianConsole\bin\Debug\Castle.Core.dll
+G:\Praetorian\PraetorianConsole\bin\Debug\NHibExpense.pdb
+G:\Praetorian\PraetorianConsole\bin\Debug\Foundation.pdb
+G:\Praetorian\PraetorianConsole\bin\Debug\ExpenseDomain.pdb
+G:\Praetorian\PraetorianConsole\obj\Debug\ResolveAssemblyReference.cache
+G:\Praetorian\PraetorianConsole\bin\Debug\PraetorianConsole.Contracts.dll
+G:\Praetorian\PraetorianConsole\bin\Debug\PraetorianConsole.Contracts.pdb
+G:\Praetorian\PraetorianConsole\bin\Debug\ExpenseShared.dll
+G:\Praetorian\PraetorianConsole\bin\Debug\ExpenseShared.pdb
+H:\Praetorian\PraetorianConsole\bin\Debug\ExpenseShared.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\ExpenseShared.pdb
+H:\Praetorian\PraetorianConsole\bin\Debug\NHibDataFoundation.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\NHibDataFoundation.pdb
+H:\Praetorian\PraetorianConsole\bin\Debug\UnityFoundation.dll
+H:\Praetorian\PraetorianConsole\bin\Debug\UnityFoundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\ExpenseShared.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\NHibDataFoundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\UnityFoundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\ExpenseShared.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\UnityFoundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianConsole\bin\Debug\NHibDataFoundation.pdb

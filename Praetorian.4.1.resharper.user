@@ -1,0 +1,276 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/f:ApplicationService.cs" caret="256" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Messages/f:IDomainMessage.cs" caret="99" scrollPosition="0|0" />
+      <File id="73A0FE43-FDC8-47F7-B003-4BB5997FDCE4/d:Mocks/f:MockMessageLogger.cs" caret="427" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Foundation/f:UnityAttribute.cs" caret="117" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Events/f:IDomainEvent.cs" caret="0" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Foundation/f:UnityAssemblyLoader.cs" caret="323" scrollPosition="0|0" />
+      <File id="73A0FE43-FDC8-47F7-B003-4BB5997FDCE4/d:Mocks/f:MockEventRepository.cs" caret="531" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/f:DomainFactory.cs" caret="175" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Foundation/f:UnityMessageRegisterer.cs" caret="1013" scrollPosition="0|16" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Events/f:EventProcessor.cs" caret="632" scrollPosition="0|3" />
+      <File id="73A0FE43-FDC8-47F7-B003-4BB5997FDCE4/d:Contexts/f:DomainContext.cs" caret="1208" scrollPosition="0|11" />
+      <File id="73A0FE43-FDC8-47F7-B003-4BB5997FDCE4/d:DomainObjects/d:ExpenseTests/f:WhenCreatingAnExpense.cs" caret="451" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Messages/f:CreateExpenseMessage.cs" caret="47" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:DomainObjects/f:Expense.cs" caret="688" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Events/f:ExpenseCreatedEvent.cs" caret="413" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Events/f:ExpenseApprovedEvent.cs" caret="313" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Messages/f:ApproveExpenseMessage.cs" caret="333" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Messages/f:MessageProcessor.cs" caret="843" scrollPosition="0|6" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Messages/f:IConsumer.cs" caret="0" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Messages/f:IMessageLogger.cs" caret="30" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Events/f:IEventHandler.cs" caret="28" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Events/f:IEventRepository.cs" caret="80" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/f:DomainRepository.cs" caret="489" scrollPosition="0|3" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Messages/f:MessageProcessor.cs" caret="429" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Messages/f:MessageProcessor.cs" caret="254" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Messages/f:MessageProcessor.cs" caret="413" scrollPosition="0|0" />
+      <File id="73A0FE43-FDC8-47F7-B003-4BB5997FDCE4/d:Contexts/f:DomainContext.cs" caret="1077" scrollPosition="0|9" />
+      <File id="73A0FE43-FDC8-47F7-B003-4BB5997FDCE4/d:Contexts/f:DomainContext.cs" caret="809" scrollPosition="0|9" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/f:DomainRepository.cs" caret="327" scrollPosition="0|6" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/f:DomainRepository.cs" caret="771" scrollPosition="0|11" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Events/f:IEventHandler.cs" caret="119" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Events/f:IEventHandler.cs" caret="0" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/f:DomainRepository.cs" caret="651" scrollPosition="0|8" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/f:DomainRepository.cs" caret="1670" scrollPosition="0|28" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Foundation/f:UnityMessageRegisterer.cs" caret="1108" scrollPosition="0|17" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Foundation/f:UnityMessageRegisterer.cs" caret="1108" scrollPosition="0|17" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/f:DomainFactory.cs" caret="175" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Foundation/f:UnityMessageRegisterer.cs" caret="1039" scrollPosition="0|11" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/f:DomainRepository.cs" caret="327" scrollPosition="0|10" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/f:DomainRepository.cs" caret="1344" scrollPosition="0|34" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/f:DomainRepository.cs" caret="1553" scrollPosition="0|33" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Messages/f:MessageProcessor.cs" caret="886" scrollPosition="0|21" />
+      <File id="73A0FE43-FDC8-47F7-B003-4BB5997FDCE4/d:DomainObjects/d:ExpenseTests/f:WhenCreatingAnExpense.cs" caret="475" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/f:DomainRepository.cs" caret="814" scrollPosition="0|17" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Messages/f:ApproveExpenseMessage.cs" caret="355" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Messages/f:ApproveExpenseMessage.cs" caret="187" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:DomainObjects/f:Expense.cs" caret="709" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:DomainObjects/f:Expense.cs" caret="688" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Events/f:ExpenseApprovedEvent.cs" caret="450" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Events/f:ExpenseApprovedEvent.cs" caret="450" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Events/f:ExpenseApprovedEvent.cs" caret="426" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/d:Messages/f:ApproveExpenseMessage.cs" caret="333" scrollPosition="0|0" />
+      <File id="DEA0281B-E300-41CC-956B-846A0EAC7379/f:DomainRepository.cs" caret="680" scrollPosition="0|9" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="T" priority="6" />
+      <Item value="CreateExpenseMessage" priority="4" />
+      <Item value="public" priority="34" />
+      <Item value="void" priority="14" />
+      <Item value="Guid" priority="5" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="ThreadStaticAttribute" priority="4" />
+      <Item value="object" priority="3" />
+      <Item value="where" priority="4" />
+      <Item value="IMessage" priority="4" />
+      <Item value="List" priority="2" />
+      <Item value="DomainRepository" priority="2" />
+      <Item value="_messages" priority="3" />
+      <Item value="Dictionary&lt;Guid,List&lt;IMessage&gt;&gt;" priority="0" />
+      <Item value="if" priority="2" />
+      <Item value="id" priority="1" />
+      <Item value="new" priority="6" />
+      <Item value="List&lt;IMessage&gt;" priority="0" />
+      <Item value="message" priority="8" />
+      <Item value="IDomainMessage" priority="6" />
+      <Item value="interface" priority="1" />
+      <Item value="IDomainEvent" priority="7" />
+      <Item value="DateTime" priority="5" />
+      <Item value="string" priority="5" />
+      <Item value="Id" priority="0" />
+      <Item value="PlatformNotSupportedException" priority="0" />
+      <Item value="ExpenseCreatedEvent" priority="1" />
+      <Item value="Title" priority="0" />
+      <Item value="title" priority="0" />
+      <Item value="EventDate" priority="0" />
+      <Item value="private" priority="5" />
+      <Item value="static" priority="3" />
+      <Item value="EventProcessor" priority="6" />
+      <Item value="IEventLogger" priority="0" />
+      <Item value="Log" priority="1" />
+      <Item value="_eventProcessor" priority="4" />
+      <Item value="domainEvent" priority="6" />
+      <Item value="MockEventLogger" priority="1" />
+      <Item value="EventLog" priority="1" />
+      <Item value="IMessageLogger" priority="1" />
+      <Item value="protected" priority="1" />
+      <Item value="abstract" priority="0" />
+      <Item value="DomainContext" priority="0" />
+      <Item value="MessageLog" priority="0" />
+      <Item value="MockMessageLogger" priority="1" />
+      <Item value="_eventLogger" priority="4" />
+      <Item value="_messageLogger" priority="1" />
+      <Item value="When" priority="0" />
+      <Item value="OverflowException" priority="0" />
+      <Item value="override" priority="0" />
+      <Item value="var" priority="20" />
+      <Item value="MessageProcessor" priority="2" />
+      <Item value="Assert" priority="3" />
+      <Item value="_title" priority="2" />
+      <Item value="IConsumer" priority="11" />
+      <Item value="return" priority="3" />
+      <Item value="null" priority="0" />
+      <Item value="_repository" priority="3" />
+      <Item value="as" priority="4" />
+      <Item value="_messageProcessor" priority="1" />
+      <Item value="consumer" priority="1" />
+      <Item value="currentType" priority="0" />
+      <Item value="typeof" priority="4" />
+      <Item value="Assembly" priority="1" />
+      <Item value="_container" priority="4" />
+      <Item value="UnityContainer" priority="0" />
+      <Item value="Dependency" priority="0" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="IEventRepository" priority="1" />
+      <Item value="container" priority="2" />
+      <Item value="foreach" priority="3" />
+      <Item value="in" priority="2" />
+      <Item value="IUnityContainer" priority="2" />
+      <Item value="domainEvents" priority="0" />
+      <Item value="ContainerControlledLifetimeManager" priority="1" />
+      <Item value="UnityMessageRegisterer" priority="0" />
+      <Item value="_assembly" priority="1" />
+      <Item value="assembly" priority="0" />
+      <Item value="type" priority="2" />
+      <Item value="interfaces" priority="0" />
+      <Item value="i" priority="8" />
+      <Item value="messageName" priority="0" />
+      <Item value="domainObject" priority="6" />
+      <Item value="Process" priority="0" />
+      <Item value="domainMessage" priority="2" />
+      <Item value="CreateObject" priority="1" />
+      <Item value="IEventHandler" priority="0" />
+      <Item value="gType" priority="1" />
+      <Item value="int" priority="0" />
+      <Item value="c" priority="0" />
+      <Item value="Container" priority="0" />
+      <Item value="ApproveExpenseMessage" priority="0" />
+      <Item value="_approvalDate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey" priority="0" />
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="1" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Today" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Events.IEventLogger">
+      <Item value="Log" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Events.EventProcessor">
+      <Item value="Log" priority="1" />
+      <Item value="Logger" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Domain.Events.EventProcessor">
+      <Item value="Instance" priority="0" />
+      <Item value="Publish" priority="0" />
+      <Item value="Setup" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Domain.Messages.MessageProcessor">
+      <Item value="Instance" priority="0" />
+      <Item value="Publish" priority="0" />
+      <Item value="Setup" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Messages.MessageProcessor">
+      <Item value="Logger" priority="0" />
+      <Item value="HandlePublish" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual" priority="1" />
+      <Item value="IsInstanceOfType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain_Test.Mocks.MockEventLogger">
+      <Item value="EventLog" priority="1" />
+      <Item value="Log" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Events.ExpenseCreatedEvent">
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Messages.CreateExpenseMessage">
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.DomainRepository">
+      <Item value="GetObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Messages.IDomainMessage">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Messages.IConsumer`1">
+      <Item value="Consume" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="GetInterfaces" priority="1" />
+      <Item value="IsGenericType" priority="1" />
+      <Item value="GetGenericTypeDefinition" priority="1" />
+      <Item value="Name" priority="0" />
+      <Item value="FindInterfaces" priority="0" />
+      <Item value="GetInterface" priority="2" />
+      <Item value="IsSubclassOf" priority="1" />
+      <Item value="IsGenericTypeDefinition" priority="0" />
+      <Item value="GetGenericParameterConstraints" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetAssembly" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Foundation.UnityAssemblyLoader">
+      <Item value="Register" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Practices.Unity.IUnityContainer">
+      <Item value="Resolve" priority="4" />
+      <Item value="RegisterType" priority="0" />
+      <Item value="RegisterInstance" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Events.IEventRepository">
+      <Item value="GetEvents" priority="1" />
+      <Item value="Record" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Events.IDomainEvent">
+      <Item value="Id" priority="1" />
+      <Item value="GetType" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="GetTypes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Foundation.UnityMessageRegisterer">
+      <Item value="Register" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Messages.ApproveExpenseMessage">
+      <Item value="Date" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

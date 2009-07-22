@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7e05a809-5478-4b59-982f-525a32b794e1" name="Jonathan@LUBU 2009-05-29 01:33:54" runUser="Lubu\Jonathan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="6cfbc88a-9d32-4c09-a0af-ac6f582e54a5">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment runDeploymentRoot="C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\TestResults\Jonathan_LUBU 2009-05-29 01_33_54">
+      <DeploymentItem filename="C:\Program Files\Microsoft Unity Application Block 1.2\Bin\Microsoft.Practices.Unity.dll" />
+      <DeploymentItem filename="C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain\bin\Debug\Domain.dll" />
+      <DeploymentItem filename="C:\Program Files\Microsoft Unity Application Block 1.2\Bin\Microsoft.Practices.ObjectBuilder2.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="1" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2009-05-29T01:33:54.0366386-05:00" queuing="2009-05-29T01:34:08.3436386-05:00" start="2009-05-29T01:34:09.6656386-05:00" finish="2009-05-29T01:34:21.1746386-05:00" />
+  <TestDefinitions>
+    <UnitTest name="Should_create_an_expense" storage="c:\users\jonathan\documents\visual studio 2008\projects\praetorian\domain_test\bin\debug\domain_test.dll" id="e4e3a709-0527-05cc-0a13-ad22bc88b7ca">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="36f220c9-0f27-4b77-9754-874d31eb0630" />
+      <TestMethod codeBase="C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\bin\Debug\Domain_Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Domain_Test.DomainObjects.ExpenseTests.WhenCreatingAnExpense, Domain_Test" name="Should_create_an_expense" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="e4e3a709-0527-05cc-0a13-ad22bc88b7ca" executionId="36f220c9-0f27-4b77-9754-874d31eb0630" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="36f220c9-0f27-4b77-9754-874d31eb0630" testId="e4e3a709-0527-05cc-0a13-ad22bc88b7ca" testName="Should_create_an_expense" computerName="LUBU" duration="00:00:00" startTime="2009-05-29T01:34:11.1556386-05:00" endTime="2009-05-29T01:34:20.3926386-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>Unit Test Adapter threw exception: Type is not resolved for member 'Microsoft.Practices.Unity.ResolutionFailedException,Microsoft.Practices.Unity, Version=1.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35'..</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

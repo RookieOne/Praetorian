@@ -1,0 +1,22 @@
+H:\Praetorian\UnityFoundation\obj\Debug\ResolveAssemblyReference.cache
+H:\Praetorian\UnityFoundation\bin\Debug\UnityFoundation.Contracts.dll
+H:\Praetorian\UnityFoundation\bin\Debug\UnityFoundation.Contracts.pdb
+H:\Praetorian\UnityFoundation\bin\Debug\UnityFoundation.dll
+H:\Praetorian\UnityFoundation\bin\Debug\UnityFoundation.pdb
+H:\Praetorian\UnityFoundation\bin\Debug\Foundation.dll
+H:\Praetorian\UnityFoundation\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+H:\Praetorian\UnityFoundation\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Praetorian\UnityFoundation\bin\Debug\Foundation.pdb
+H:\Praetorian\UnityFoundation\obj\Debug\UnityFoundation.dll
+H:\Praetorian\UnityFoundation\obj\Debug\UnityFoundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\UnityFoundation\bin\Debug\UnityFoundation.Contracts.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\UnityFoundation\bin\Debug\UnityFoundation.Contracts.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\UnityFoundation\bin\Debug\UnityFoundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\UnityFoundation\bin\Debug\UnityFoundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\UnityFoundation\bin\Debug\Foundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\UnityFoundation\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\UnityFoundation\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\UnityFoundation\bin\Debug\Foundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\UnityFoundation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\UnityFoundation\obj\Debug\UnityFoundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\UnityFoundation\obj\Debug\UnityFoundation.pdb

@@ -1,0 +1,131 @@
+<Configuration>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Messages/f:NHibMessage.cs" caret="165" scrollPosition="0|0" />
+      <File id="2535FF43-FBA5-4972-9D02-052E72E6C664/d:Contexts/f:NHibContext.cs" caret="538" scrollPosition="0|0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Messages/f:NHibMessageLog.cs" caret="0" scrollPosition="0|0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Messages/f:NHibMessageMapping.cs" caret="229" scrollPosition="0|0" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Events/f:IAggregateEvent.cs" caret="152" scrollPosition="0|0" />
+      <File id="09DFD56E-9E5E-4CE8-B305-A730BB15388D/d:Events/f:ExpenseApprovedEvent.cs" caret="463" scrollPosition="0|0" />
+      <File id="2535FF43-FBA5-4972-9D02-052E72E6C664/d:Mocks/f:MockAggregateEvent.cs" caret="279" scrollPosition="0|0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibAggregateEventMapping.cs" caret="378" scrollPosition="0|0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibEventMapping.cs" caret="252" scrollPosition="0|0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibAggregateEvent.cs" caret="261" scrollPosition="0|0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibEvent.cs" caret="242" scrollPosition="0|0" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Events/f:IDomainEvent.cs" caret="70" scrollPosition="0|0" />
+      <File id="2535FF43-FBA5-4972-9D02-052E72E6C664/d:Events/d:EventRepositoryTests/f:When_recording_an_event.cs" caret="1361" scrollPosition="10|15" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Helpers/f:XmlSerializationHelper.cs" caret="500" scrollPosition="0|0" />
+      <File id="09DFD56E-9E5E-4CE8-B305-A730BB15388D/d:Events/f:ExpenseCreatedEvent.cs" caret="365" scrollPosition="0|0" />
+      <File id="5F9BFA11-51CD-4E23-9E7C-F0ECC9CEEC45/d:Contexts/f:DomainContext.cs" caret="1625" scrollPosition="0|22" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Messages/f:IDomainMessage.cs" caret="76" scrollPosition="0|0" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Messages/f:IAggregateMessage.cs" caret="72" scrollPosition="0|0" />
+      <File id="2535FF43-FBA5-4972-9D02-052E72E6C664/d:Contexts/f:NHibEventContext.cs" caret="0" scrollPosition="0|0" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Events/f:IEventRepository.cs" caret="236" scrollPosition="0|0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibEventRepository.cs" caret="0" scrollPosition="0|0" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:DDD/f:DomainRepository.cs" caret="462" scrollPosition="0|6" />
+      <File id="5F9BFA11-51CD-4E23-9E7C-F0ECC9CEEC45/d:Mocks/f:MockEventRepository.cs" caret="587" scrollPosition="0|6" />
+      <File id="6C89A09C-5F0A-497C-9C9E-8DE76CDFCE0B/d:ExpenseAggregateTests/f:When_approving_an_expense.cs" caret="622" scrollPosition="0|0" />
+      <File id="6C89A09C-5F0A-497C-9C9E-8DE76CDFCE0B/d:Contexts/f:CreatedExpenseContext.cs" caret="505" scrollPosition="0|0" />
+      <File id="6C89A09C-5F0A-497C-9C9E-8DE76CDFCE0B/d:Contexts/f:ExpenseDomainContext.cs" caret="323" scrollPosition="0|0" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Messages/f:MessageBroker.cs" caret="720" scrollPosition="0|0" />
+      <File id="2535FF43-FBA5-4972-9D02-052E72E6C664/d:Mocks/f:MockDomainEvent.cs" caret="157" scrollPosition="0|0" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Events/f:DomainEvent.cs" caret="0" scrollPosition="0|0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Messages/f:NHibMessage.cs" caret="165" scrollPosition="0|0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Messages/f:NHibMessageMapping.cs" caret="229" scrollPosition="0|0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Helpers/f:XmlSerializationHelper.cs" caret="229" scrollPosition="0|0" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Events/f:IAggregateEvent.cs" caret="131" scrollPosition="0|0" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Events/f:IDomainEvent.cs" caret="118" scrollPosition="0|0" />
+      <File id="09DFD56E-9E5E-4CE8-B305-A730BB15388D/d:Events/f:ExpenseCreatedEvent.cs" caret="175" scrollPosition="0|0" />
+      <File id="09DFD56E-9E5E-4CE8-B305-A730BB15388D/d:Events/f:ExpenseCreatedEvent.cs" caret="418" scrollPosition="0|0" />
+      <File id="09DFD56E-9E5E-4CE8-B305-A730BB15388D/d:Events/f:ExpenseApprovedEvent.cs" caret="128" scrollPosition="0|0" />
+      <File id="09DFD56E-9E5E-4CE8-B305-A730BB15388D/d:Events/f:ExpenseApprovedEvent.cs" caret="463" scrollPosition="0|0" />
+      <File id="5F9BFA11-51CD-4E23-9E7C-F0ECC9CEEC45/d:Mocks/f:MockEventRepository.cs" caret="529" scrollPosition="0|0" />
+      <File id="5F9BFA11-51CD-4E23-9E7C-F0ECC9CEEC45/d:Mocks/f:MockEventRepository.cs" caret="828" scrollPosition="0|0" />
+      <File id="2535FF43-FBA5-4972-9D02-052E72E6C664/d:Mocks/f:MockAggregateEvent.cs" caret="279" scrollPosition="0|0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibAggregateEventMapping.cs" caret="378" scrollPosition="0|0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibEvent.cs" caret="242" scrollPosition="0|0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibEventMapping.cs" caret="320" scrollPosition="0|0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibAggregateEvent.cs" caret="182" scrollPosition="0|0" />
+      <File id="2535FF43-FBA5-4972-9D02-052E72E6C664/d:Events/d:EventRepositoryTests/f:When_recording_an_event.cs" caret="557" scrollPosition="10|0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Helpers/f:XmlSerializationHelper.cs" caret="713" scrollPosition="0|0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibEventRepository.cs" caret="609" scrollPosition="0|15" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibEventRepository.cs" caret="810" scrollPosition="0|15" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibEventRepository.cs" caret="1296" scrollPosition="0|15" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibEventRepository.cs" caret="1111" scrollPosition="0|15" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Events/f:IEventRepository.cs" caret="236" scrollPosition="0|0" />
+      <File id="5F9BFA11-51CD-4E23-9E7C-F0ECC9CEEC45/d:Mocks/f:MockEventRepository.cs" caret="1021" scrollPosition="0|6" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Messages/f:MessageBroker.cs" caret="1060" scrollPosition="0|20" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Messages/f:MessageBroker.cs" caret="720" scrollPosition="0|0" />
+      <File id="2535FF43-FBA5-4972-9D02-052E72E6C664/d:Mocks/f:MockDomainEvent.cs" caret="157" scrollPosition="0|0" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Events/f:DomainEvent.cs" caret="231" scrollPosition="0|0" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Events/f:DomainEvent.cs" caret="221" scrollPosition="0|0" />
+    </RecentEdits>
+  </RecentFiles>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+      <setting name="UseSolutionBuilder">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="StringReader" priority="2" />
+      <Item value="var" priority="4" />
+      <Item value="new" priority="3" />
+      <Item value="XmlReader" priority="0" />
+      <Item value="Create" priority="0" />
+      <Item value="memoryStream" priority="0" />
+      <Item value="reader" priority="1" />
+      <Item value="ToString" priority="1" />
+      <Item value="result" priority="1" />
+      <Item value="serializer" priority="0" />
+      <Item value="TextWriter" priority="0" />
+      <Item value="StringWriter" priority="0" />
+      <Item value="writer" priority="0" />
+      <Item value="T" priority="1" />
+      <Item value="return" priority="2" />
+      <Item value="GeneratedBy" priority="0" />
+      <Item value="GuidComb" priority="0" />
+      <Item value="Id" priority="7" />
+      <Item value="domainEvent" priority="6" />
+      <Item value="if" priority="0" />
+      <Item value="NewGuid" priority="1" />
+      <Item value="Guid" priority="5" />
+      <Item value="public" priority="6" />
+      <Item value="NHibAggregateEvent" priority="0" />
+      <Item value="NHibAggregateEventMapping" priority="0" />
+      <Item value="EventId" priority="0" />
+      <Item value="Map" priority="1" />
+      <Item value="e" priority="2" />
+      <Item value="AggregateId" priority="1" />
+      <Item value="nhibEvent" priority="1" />
+      <Item value="virtual" priority="0" />
+      <Item value="DateTimeOffset" priority="0" />
+      <Item value="EventDate" priority="2" />
+      <Item value="DateTime" priority="0" />
+      <Item value="Today" priority="0" />
+      <Item value="Event" priority="1" />
+      <Item value="session" priority="2" />
+      <Item value="Save" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="Empty" priority="0" />
+      <Item value="IDomainEvent" priority="0" />
+      <Item value="abstract" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

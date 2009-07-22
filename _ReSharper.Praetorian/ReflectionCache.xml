@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741833">
+  <Assembly Name="FluentNHibernate, Version=0.1.0.330, Culture=neutral, PublicKeyToken=8aa435e3cb308880" Image="4afef106-e493-48f7-81fc-189f0a4b7b70" Timestamp="633707727800000000" />
+  <Assembly Name="NHibernate, Version=2.0.1.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4" Image="34ae10db-62ec-4d4b-9f2a-84590ebf7b70" Timestamp="633707727860000000" />
+  <Assembly Name="NHibernate.Linq, Version=1.0.0.0, Culture=neutral, PublicKeyToken=444cf6a87fdab271" Image="193e4394-c099-4234-8730-c9b496f299b6" Timestamp="633707727820000000" />
+  <Assembly Name="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="17f04b44-5065-4ccc-8840-7bf07a8e7084" Timestamp="633529932480000000" XmlDocIndexTimestamp="633490255300000000" />
+  <Assembly Name="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="ce62151b-b8ea-4342-9613-cf49e45f1b52" Timestamp="633529932480000000" XmlDocIndexTimestamp="633490255300000000" />
+  <Assembly Name="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" Image="815673be-c50d-4d9b-bee5-eff26dc7d5e7" Timestamp="633529932480000000" XmlDocIndexTimestamp="633490255300000000" />
+  <Assembly Name="Microsoft.Practices.ObjectBuilder2, Version=2.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="1de6fb0d-bea0-4356-9826-4535fa8fdfee" Timestamp="633604007520000000" />
+  <Assembly Name="Microsoft.Practices.Unity, Version=1.2.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Image="e0d33c35-012c-4399-9ef6-383eb6e6f40f" Timestamp="633707727820000000" />
+  <Assembly Name="nunit.framework, Version=2.4.8.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77" Image="8822a314-74e6-44aa-a190-c03ab384f4bc" Timestamp="633522438640000000" />
+  <Assembly Name="JetBrains.Annotations, Version=4.0.819.19, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="407d87bc-13eb-462e-8ee0-2ac14097bc6d" Timestamp="633486635860000000" XmlDocIndexTimestamp="633486635860000000" />
+</Assemblies>

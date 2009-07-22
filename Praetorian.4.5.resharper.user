@@ -1,0 +1,677 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:ReadDtos/f:ExpenseDto.cs" caret="0" fromTop="0" />
+      <File id="FD4F70DF-852D-4A61-93AB-177B1FEB3821/f:UnityMessageConsumerRepository.cs" caret="533" fromTop="13" />
+      <File id="FD4F70DF-852D-4A61-93AB-177B1FEB3821/f:UnityMessageRegisterer.cs" caret="0" fromTop="0" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Builders/f:EventBuilder.cs" caret="0" fromTop="0" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Builders/f:New.cs" caret="290" fromTop="11" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Repositories/f:ExpenseReadRepository.cs" caret="640" fromTop="23" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:DDD/d:Interfaces/f:IReadRepositoryStrategy.cs" caret="146" fromTop="6" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Repositories/f:NHibReadRepositoryStrategy.cs" caret="564" fromTop="19" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Events/f:ExpenseCreatedEvent.cs" caret="318" fromTop="11" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Events/f:EventProcessor.cs" caret="1120" fromTop="13" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Events/f:EventHandlerCollection.cs" caret="1351" fromTop="13" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Repositories/f:NHibWriteRepositoryStrategy.cs" caret="506" fromTop="17" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:DDD/f:WriteRepositoryEventSubscriber.cs" caret="1120" fromTop="33" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Helpers/f:XmlSerializationHelper.cs" caret="301" fromTop="11" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Messages/f:ApproveExpenseMessage.cs" caret="0" fromTop="0" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Messages/f:AggregateMessage.cs" caret="206" fromTop="7" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Events/d:Interfaces/f:IEventRepository.cs" caret="230" fromTop="8" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Events/f:ExpenseApprovedEvent.cs" caret="0" fromTop="0" />
+      <File id="09DFD56E-9E5E-4CE8-B305-A730BB15388D/d:Repositories/f:ExpenseWriteRepository.cs" caret="663" fromTop="2" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Events/f:TitleChangedOnExpenseEvent.cs" caret="1117" fromTop="33" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Messages/f:MessageBroker.cs" caret="1317" fromTop="26" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:DDD/f:DomainRepository.cs" caret="1198" fromTop="12" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibAggregateEventMapping.cs" caret="0" fromTop="0" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibEventRepository.cs" caret="1690" fromTop="22" />
+      <File id="E464DB57-16EC-4C99-8B74-D9C206D3B18D/f:Program.cs" caret="1163" fromTop="18" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Messages/f:ChangeTitleMessage.cs" caret="0" fromTop="0" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Messages/f:CreateExpenseMessage.cs" caret="616" fromTop="18" />
+      <File id="09DFD56E-9E5E-4CE8-B305-A730BB15388D/d:Aggregates/f:Expense.cs" caret="842" fromTop="11" />
+      <File id="6C89A09C-5F0A-497C-9C9E-8DE76CDFCE0B/d:Repositories/d:ExpenseWriteRepositoryTests/f:When_expense_created_event_is_published.cs" caret="649" fromTop="24" />
+      <File id="6C89A09C-5F0A-497C-9C9E-8DE76CDFCE0B/d:Aggregates/d:ExpenseTests/f:When_creating_an_expense.cs" caret="578" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Events/f:TitleChangedOnExpenseEvent.cs" caret="1216" fromTop="22" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Events/f:TitleChangedOnExpenseEvent.cs" caret="1216" fromTop="35" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Events/f:TitleChangedOnExpenseEvent.cs" caret="1180" fromTop="32" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Events/f:TitleChangedOnExpenseEvent.cs" caret="332" fromTop="14" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Builders/f:New.cs" caret="277" fromTop="11" />
+      <File id="09DFD56E-9E5E-4CE8-B305-A730BB15388D/d:Repositories/f:ExpenseWriteRepository.cs" caret="1687" fromTop="5" />
+      <File id="09DFD56E-9E5E-4CE8-B305-A730BB15388D/d:Repositories/f:ExpenseWriteRepository.cs" caret="1687" fromTop="15" />
+      <File id="09DFD56E-9E5E-4CE8-B305-A730BB15388D/d:Repositories/f:ExpenseWriteRepository.cs" caret="1677" fromTop="19" />
+      <File id="E464DB57-16EC-4C99-8B74-D9C206D3B18D/f:Program.cs" caret="3640" fromTop="16" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Repositories/f:ExpenseReadRepository.cs" caret="639" fromTop="23" />
+      <File id="E464DB57-16EC-4C99-8B74-D9C206D3B18D/f:Program.cs" caret="1671" fromTop="31" />
+      <File id="E464DB57-16EC-4C99-8B74-D9C206D3B18D/f:Program.cs" caret="1099" fromTop="15" />
+      <File id="E464DB57-16EC-4C99-8B74-D9C206D3B18D/f:Program.cs" caret="1290" fromTop="23" />
+      <File id="E464DB57-16EC-4C99-8B74-D9C206D3B18D/f:Program.cs" caret="2046" fromTop="25" />
+      <File id="E464DB57-16EC-4C99-8B74-D9C206D3B18D/f:Program.cs" caret="879" fromTop="19" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Messages/f:ApproveExpenseMessage.cs" caret="228" fromTop="8" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Events/f:TitleChangedOnExpenseEvent.cs" caret="210" fromTop="8" />
+      <File id="09DFD56E-9E5E-4CE8-B305-A730BB15388D/d:Repositories/f:ExpenseWriteRepository.cs" caret="1028" fromTop="16" />
+      <File id="E464DB57-16EC-4C99-8B74-D9C206D3B18D/f:Program.cs" caret="3093" fromTop="18" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Messages/f:ChangeTitleMessage.cs" caret="222" fromTop="8" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Messages/f:ChangeTitleMessage.cs" caret="704" fromTop="21" />
+      <File id="080E245A-1308-498D-9FBE-D491FF9534FC/d:Messages/f:AggregateMessage.cs" caret="206" fromTop="7" />
+      <File id="F80E789B-CCC8-461C-B323-5B6AB88F9CBA/d:Events/f:NHibEventRepository.cs" caret="2227" fromTop="35" />
+      <File id="09DFD56E-9E5E-4CE8-B305-A730BB15388D/d:Aggregates/f:Expense.cs" caret="1758" fromTop="15" />
+      <File id="09DFD56E-9E5E-4CE8-B305-A730BB15388D/d:Aggregates/f:Expense.cs" caret="484" fromTop="14" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Messages/f:CreateExpenseMessage.cs" caret="173" fromTop="4" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Messages/f:CreateExpenseMessage.cs" caret="321" fromTop="6" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Messages/f:CreateExpenseMessage.cs" caret="1113" fromTop="29" />
+      <File id="943349DC-41DC-4F91-88BD-DC87385655AE/d:Messages/f:CreateExpenseMessage.cs" caret="616" fromTop="18" />
+      <File id="09DFD56E-9E5E-4CE8-B305-A730BB15388D/d:Aggregates/f:Expense.cs" caret="841" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="T" priority="23" />
+      <Item value="CreateExpenseMessage" priority="13" />
+      <Item value="public" priority="116" />
+      <Item value="void" priority="34" />
+      <Item value="Guid" priority="27" />
+      <Item value="Dictionary" priority="1" />
+      <Item value="ThreadStaticAttribute" priority="10" />
+      <Item value="object" priority="10" />
+      <Item value="where" priority="12" />
+      <Item value="IMessage" priority="4" />
+      <Item value="List" priority="6" />
+      <Item value="DomainRepository" priority="4" />
+      <Item value="_messages" priority="3" />
+      <Item value="Dictionary&lt;Guid,List&lt;IMessage&gt;&gt;" priority="0" />
+      <Item value="if" priority="15" />
+      <Item value="id" priority="5" />
+      <Item value="new" priority="56" />
+      <Item value="List&lt;IMessage&gt;" priority="0" />
+      <Item value="message" priority="20" />
+      <Item value="IDomainMessage" priority="7" />
+      <Item value="interface" priority="1" />
+      <Item value="IDomainEvent" priority="10" />
+      <Item value="DateTime" priority="12" />
+      <Item value="string" priority="16" />
+      <Item value="Id" priority="10" />
+      <Item value="PlatformNotSupportedException" priority="0" />
+      <Item value="ExpenseCreatedEvent" priority="10" />
+      <Item value="Title" priority="6" />
+      <Item value="title" priority="4" />
+      <Item value="EventDate" priority="1" />
+      <Item value="private" priority="23" />
+      <Item value="static" priority="18" />
+      <Item value="EventProcessor" priority="11" />
+      <Item value="IEventLogger" priority="0" />
+      <Item value="Log" priority="1" />
+      <Item value="_eventProcessor" priority="4" />
+      <Item value="domainEvent" priority="21" />
+      <Item value="MockEventLogger" priority="1" />
+      <Item value="EventLog" priority="1" />
+      <Item value="IMessageLogger" priority="1" />
+      <Item value="protected" priority="11" />
+      <Item value="abstract" priority="1" />
+      <Item value="DomainContext" priority="0" />
+      <Item value="MessageLog" priority="0" />
+      <Item value="MockMessageLogger" priority="1" />
+      <Item value="_eventLogger" priority="4" />
+      <Item value="_messageLogger" priority="1" />
+      <Item value="When" priority="1" />
+      <Item value="OverflowException" priority="0" />
+      <Item value="override" priority="8" />
+      <Item value="var" priority="46" />
+      <Item value="MessageProcessor" priority="2" />
+      <Item value="Assert" priority="4" />
+      <Item value="_title" priority="5" />
+      <Item value="IConsumer" priority="11" />
+      <Item value="return" priority="41" />
+      <Item value="null" priority="5" />
+      <Item value="_repository" priority="3" />
+      <Item value="as" priority="17" />
+      <Item value="_messageProcessor" priority="1" />
+      <Item value="consumer" priority="3" />
+      <Item value="currentType" priority="0" />
+      <Item value="typeof" priority="16" />
+      <Item value="Assembly" priority="4" />
+      <Item value="_container" priority="13" />
+      <Item value="UnityContainer" priority="1" />
+      <Item value="Dependency" priority="1" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="IEventRepository" priority="2" />
+      <Item value="container" priority="6" />
+      <Item value="foreach" priority="7" />
+      <Item value="in" priority="6" />
+      <Item value="IUnityContainer" priority="4" />
+      <Item value="domainEvents" priority="0" />
+      <Item value="ContainerControlledLifetimeManager" priority="1" />
+      <Item value="UnityMessageRegisterer" priority="2" />
+      <Item value="_assembly" priority="1" />
+      <Item value="assembly" priority="1" />
+      <Item value="type" priority="2" />
+      <Item value="interfaces" priority="0" />
+      <Item value="i" priority="8" />
+      <Item value="messageName" priority="0" />
+      <Item value="domainObject" priority="6" />
+      <Item value="Process" priority="0" />
+      <Item value="domainMessage" priority="6" />
+      <Item value="CreateObject" priority="1" />
+      <Item value="IEventHandler" priority="4" />
+      <Item value="gType" priority="1" />
+      <Item value="int" priority="1" />
+      <Item value="c" priority="0" />
+      <Item value="Container" priority="0" />
+      <Item value="ApproveExpenseMessage" priority="1" />
+      <Item value="_approvalDate" priority="3" />
+      <Item value="IAggregateMessage" priority="0" />
+      <Item value="aggregateMessage" priority="0" />
+      <Item value="IConsume" priority="3" />
+      <Item value="else" priority="1" />
+      <Item value="IMessageConsumerRepository" priority="1" />
+      <Item value="UnityMessageConsumerRepository" priority="1" />
+      <Item value="_registerer" priority="0" />
+      <Item value="ExpenseDomain" priority="3" />
+      <Item value="ApprovalDate" priority="2" />
+      <Item value="Expense" priority="0" />
+      <Item value="IAggregateEvent" priority="6" />
+      <Item value="List&lt;IAggregateEvent&gt;" priority="0" />
+      <Item value="aggregateEvent" priority="4" />
+      <Item value="AggregateEventLog" priority="0" />
+      <Item value="_messageConsumerRepository" priority="2" />
+      <Item value="base" priority="4" />
+      <Item value="IDomainRepository" priority="1" />
+      <Item value="createMessage" priority="1" />
+      <Item value="_expenseId" priority="4" />
+      <Item value="ExpenseDomainContext" priority="0" />
+      <Item value="_eventRepository" priority="3" />
+      <Item value="MessageBroker" priority="6" />
+      <Item value="approveMessage" priority="0" />
+      <Item value="e" priority="1" />
+      <Item value="approvedEvents" priority="0" />
+      <Item value="EventRepository" priority="0" />
+      <Item value="UnityEventHandlerRepository" priority="1" />
+      <Item value="IEventHandlerRepository" priority="3" />
+      <Item value="aggregate" priority="7" />
+      <Item value="EventHandlerRepository" priority="0" />
+      <Item value="handler" priority="5" />
+      <Item value="Handle" priority="0" />
+      <Item value="IAggregate" priority="0" />
+      <Item value="createdEvent" priority="0" />
+      <Item value="domainRepository" priority="0" />
+      <Item value="method" priority="1" />
+      <Item value="p" priority="0" />
+      <Item value="handleMethod" priority="1" />
+      <Item value="BindingFlags" priority="0" />
+      <Item value="Where" priority="0" />
+      <Item value="m" priority="0" />
+      <Item value="BasicExpenseRepository" priority="0" />
+      <Item value="IReadRepositoryStrategy" priority="3" />
+      <Item value="Database" priority="8" />
+      <Item value="IDatabaseRepositoryStrategy" priority="1" />
+      <Item value="BasicExpenseDto" priority="1" />
+      <Item value="newExpense" priority="0" />
+      <Item value="NHibConfig" priority="2" />
+      <Item value="ISessionFactory" priority="0" />
+      <Item value="_factory" priority="1" />
+      <Item value="factory" priority="0" />
+      <Item value="this" priority="8" />
+      <Item value="from" priority="1" />
+      <Item value="_session" priority="2" />
+      <Item value="select" priority="0" />
+      <Item value="entity" priority="5" />
+      <Item value="IEntity" priority="4" />
+      <Item value="entities" priority="0" />
+      <Item value="NHibRepositoryStrategy" priority="1" />
+      <Item value="NHibReadRepositoryStrategy" priority="2" />
+      <Item value="Console" priority="3" />
+      <Item value="NHibEventRepository" priority="1" />
+      <Item value="session" priority="1" />
+      <Item value="events" priority="0" />
+      <Item value="NHibEvent" priority="1" />
+      <Item value="Event" priority="1" />
+      <Item value="serializer" priority="0" />
+      <Item value="memoryStream" priority="0" />
+      <Item value="nhibEvent" priority="1" />
+      <Item value="transaction" priority="0" />
+      <Item value="NHibEventMapping" priority="0" />
+      <Item value="NHibContext" priority="0" />
+      <Item value="Type" priority="3" />
+      <Item value="List&lt;Type&gt;" priority="0" />
+      <Item value="types" priority="2" />
+      <Item value="MockWriteRepositoryStrategy" priority="1" />
+      <Item value="_entities" priority="5" />
+      <Item value="List&lt;T&gt;" priority="0" />
+      <Item value="ContextSpecification" priority="0" />
+      <Item value="Given" priority="0" />
+      <Item value="_eventHandlers" priority="0" />
+      <Item value="_subscribers" priority="1" />
+      <Item value="List&lt;object&gt;" priority="0" />
+      <Item value="subscriber" priority="1" />
+      <Item value="IHandle" priority="3" />
+      <Item value="WriteRepositoryEventSubscriber" priority="1" />
+      <Item value="_eventHandlerRepository" priority="0" />
+      <Item value="_database" priority="3" />
+      <Item value="IWriteRepository" priority="0" />
+      <Item value="UnityEventHandlerRepository&lt;IWriteRepository&gt;" priority="0" />
+      <Item value="_writeEventHandlerRepository" priority="1" />
+      <Item value="ExpenseDto" priority="4" />
+      <Item value="_event" priority="11" />
+      <Item value="expense" priority="6" />
+      <Item value="Nullable" priority="0" />
+      <Item value="List&lt;IEntity&gt;" priority="0" />
+      <Item value="GetById" priority="0" />
+      <Item value="found" priority="0" />
+      <Item value="WriteRepositoriesContext" priority="0" />
+      <Item value="_expense" priority="2" />
+      <Item value="CreatedExpenseInRepositoryContext" priority="0" />
+      <Item value="ExpenseApprovedEvent" priority="0" />
+      <Item value="Setup" priority="0" />
+      <Item value="class" priority="5" />
+      <Item value="Builder" priority="5" />
+      <Item value="_message" priority="6" />
+      <Item value="repository" priority="1" />
+      <Item value="eventRepository" priority="0" />
+      <Item value="eventHandlerResolver" priority="1" />
+      <Item value="_eventHandlerResolver" priority="0" />
+      <Item value="Interfaces" priority="2" />
+      <Item value="UnityFoundation" priority="0" />
+      <Item value="PropertyChanged" priority="0" />
+      <Item value="PropertyChangedEventArgs" priority="0" />
+      <Item value="propertyName" priority="0" />
+      <Item value="ViewModel" priority="0" />
+      <Item value="ExpensesViewModel" priority="0" />
+      <Item value="OnPropertyChanged" priority="0" />
+      <Item value="Action" priority="0" />
+      <Item value="_action" priority="0" />
+      <Item value="CreateExpenseCommand" priority="0" />
+      <Item value="Expenses" priority="0" />
+      <Item value="content" priority="0" />
+      <Item value="EventBuilder" priority="5" />
+      <Item value="MessageBuilder" priority="3" />
+      <Item value="New" priority="3" />
+      <Item value="CreateExpenseBuilder" priority="0" />
+      <Item value="internal" priority="5" />
+      <Item value="NewsStyleUriParser" priority="0" />
+      <Item value="ChangeTitleMessage" priority="3" />
+      <Item value="partial" priority="3" />
+      <Item value="AggregateEvent" priority="0" />
+      <Item value="ChangeTitleBuilder" priority="2" />
+      <Item value="TitleChangedOnExpenseEvent" priority="4" />
+      <Item value="AggregateId" priority="2" />
+      <Item value="TitleChangedOnExpenseBuilder" priority="3" />
+      <Item value="config" priority="0" />
+      <Item value="ExpenseReadRepository" priority="0" />
+      <Item value="expenses" priority="0" />
+      <Item value="PrintExpenses" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey" priority="0" />
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add" priority="2" />
+      <Item value="Count" priority="0" />
+      <Item value="Remove" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Today" priority="3" />
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Events.IEventLogger">
+      <Item value="Log" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Events.EventProcessor">
+      <Item value="Log" priority="1" />
+      <Item value="Logger" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Domain.Events.EventProcessor">
+      <Item value="Instance" priority="0" />
+      <Item value="Publish" priority="0" />
+      <Item value="Setup" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Domain.Messages.MessageProcessor">
+      <Item value="Instance" priority="0" />
+      <Item value="Publish" priority="0" />
+      <Item value="Setup" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Messages.MessageProcessor">
+      <Item value="Logger" priority="0" />
+      <Item value="HandlePublish" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual" priority="1" />
+      <Item value="IsInstanceOfType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain_Test.Mocks.MockEventLogger">
+      <Item value="EventLog" priority="1" />
+      <Item value="Log" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Events.ExpenseCreatedEvent">
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Messages.CreateExpenseMessage">
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.DomainRepository">
+      <Item value="GetObject" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Messages.IDomainMessage">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Messages.IConsumer`1">
+      <Item value="Consume" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="GetInterfaces" priority="1" />
+      <Item value="IsGenericType" priority="1" />
+      <Item value="GetGenericTypeDefinition" priority="1" />
+      <Item value="Name" priority="1" />
+      <Item value="FindInterfaces" priority="0" />
+      <Item value="GetInterface" priority="3" />
+      <Item value="IsSubclassOf" priority="1" />
+      <Item value="IsGenericTypeDefinition" priority="0" />
+      <Item value="GetGenericParameterConstraints" priority="0" />
+      <Item value="GetMethods" priority="0" />
+      <Item value="GetType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetAssembly" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Foundation.UnityAssemblyLoader">
+      <Item value="Register" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Practices.Unity.IUnityContainer">
+      <Item value="Resolve" priority="6" />
+      <Item value="RegisterType" priority="0" />
+      <Item value="RegisterInstance" priority="7" />
+      <Item value="CreateChildContainer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Events.IEventRepository">
+      <Item value="GetEvents" priority="1" />
+      <Item value="Record" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Events.IDomainEvent">
+      <Item value="Id" priority="1" />
+      <Item value="GetType" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="GetTypes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Foundation.UnityMessageRegisterer">
+      <Item value="Register" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Domain.Messages.ApproveExpenseMessage">
+      <Item value="Date" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.Messages.IMessageConsumerRepository">
+      <Item value="GetConsumer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.Unity.UnityMessageRegisterer">
+      <Item value="Register" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseDomain.Messages.ApproveExpenseMessage">
+      <Item value="Date" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Foundation.Events.EventProcessor">
+      <Item value="Publish" priority="7" />
+      <Item value="SubscribeToAll" priority="0" />
+      <Item value="Subscribe" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseDomain.Messages.CreateExpenseMessage">
+      <Item value="Title" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation_Test.Contexts.DomainContext">
+      <Item value="Given" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.Unity.UnityMessageConsumerRepository">
+      <Item value="RegisterAssemby" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseDomain_Test.Contexts.ExpenseDomainContext">
+      <Item value="When" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Foundation.Messages.MessageBroker">
+      <Item value="Send" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation_Test.Mocks.MockEventRepository">
+      <Item value="Record" priority="0" />
+      <Item value="EventCount" priority="0" />
+      <Item value="GetEvent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseDomain.Events.ExpenseApprovedEvent">
+      <Item value="ApprovalDate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.Events.IEventRepository">
+      <Item value="GetEvents" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.Unity.UnityEventHandlerRepository">
+      <Item value="RegisterAssemby" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.Events.IEventHandlerRepository">
+      <Item value="GetEventHandler" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.Events.IEventHandler`1">
+      <Item value="Handle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseDomain.Events.ExpenseCreatedEvent">
+      <Item value="Id" priority="2" />
+      <Item value="Title" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseDomain.Aggregates.Expense">
+      <Item value="Create" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="GetType" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MethodInfo">
+      <Item value="GetGenericArguments" priority="0" />
+      <Item value="Invoke" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="GetParameters" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:">
+      <Item value="GetType" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.ParameterInfo">
+      <Item value="ParameterType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.DDD.IReadRepositoryStrategy">
+      <Item value="GetAll" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.DDD.IDatabaseRepositoryStrategy`1">
+      <Item value="GetById" priority="0" />
+      <Item value="Save" priority="0" />
+      <Item value="Commit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibDataFoundation.Configs.INHibConfig">
+      <Item value="GetSession" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="Linq" priority="0" />
+      <Item value="Get" priority="0" />
+      <Item value="Save" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:T">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="FirstOrDefault" priority="0" />
+      <Item value="ToList" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine" priority="3" />
+      <Item value="ReadLine" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.Serialization.XmlSerializer">
+      <Item value="Serialize" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.MemoryStream">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibDataFoundation.Events.NHibEvent">
+      <Item value="Id" priority="0" />
+      <Item value="Event" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.Events.IAggregateEvent">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ITransaction">
+      <Item value="Commit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibDataFoundation.Messages.NHibMessage">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NHibDataFoundation.Configs.NHibConfig">
+      <Item value="Create" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibDataFoundation.Configs.NHibConfig">
+      <Item value="DatabaseName" priority="0" />
+      <Item value="DatabaseNameIs" priority="0" />
+      <Item value="ServerIs" priority="0" />
+      <Item value="Build" priority="0" />
+      <Item value="RegisterMappings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.Events.EventHandlerCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.Events.ISubscribe">
+      <Item value="Handle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation_Test.Mocks.MockWriteRepositoryStrategy">
+      <Item value="GetById" priority="0" />
+      <Item value="Save" priority="0" />
+      <Item value="Commit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseShared.Events.ExpenseCreatedEvent">
+      <Item value="Id" priority="0" />
+      <Item value="Title" priority="1" />
+      <Item value="AggregateId" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="IsNotNull" priority="0" />
+      <Item value="AreEqual" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.Unity.UnityEventHandlerRepository`1">
+      <Item value="RegisterAssemby" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Cfg.FluentConfiguration">
+      <Item value="Database" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseShared.ReadDtos.ExpenseDto">
+      <Item value="Title" priority="2" />
+      <Item value="Id" priority="1" />
+      <Item value="ApprovalDate" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseShared.Events.ExpenseApprovedEvent">
+      <Item value="ApprovalDate" priority="1" />
+      <Item value="Id" priority="0" />
+      <Item value="AggregateId" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.DDD.IWriteRepositoryStrategy">
+      <Item value="GetById" priority="0" />
+      <Item value="Save" priority="0" />
+      <Item value="Commit" priority="0" />
+      <Item value="Insert" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseShared.Messages.CreateExpenseMessage">
+      <Item value="Title" priority="0" />
+      <Item value="AggregateId" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ExpenseShared.Messages.CreateExpenseMessage">
+      <Item value="New" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseShared.Messages.CreateExpenseMessage+Builder">
+      <Item value="WithTitle" priority="1" />
+      <Item value="Send" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.Messages.IDomainMessage">
+      <Item value="DateRecieved" priority="0" />
+      <Item value="DateSent" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ExpenseShared.Events.ExpenseCreatedEvent">
+      <Item value="New" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseShared.Events.ExpenseCreatedEvent+Builder">
+      <Item value="For" priority="2" />
+      <Item value="TitleSetTo" priority="2" />
+      <Item value="Publish" priority="1" />
+      <Item value="Create" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Action">
+      <Item value="Invoke" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseShared.Repositories.ExpenseReadRepository">
+      <Item value="GetAllExpenses" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ContentControl">
+      <Item value="Content" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Practices.Unity.UnityContainer">
+      <Item value="Resolve" priority="1" />
+      <Item value="RegisterInstance" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Activator">
+      <Item value="CreateInstance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Foundation.Builders.New">
+      <Item value="Event" priority="1" />
+      <Item value="Message" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.Builders.MessageBuilder">
+      <Item value="CreateExpense" priority="0" />
+      <Item value="ApproveExpense" priority="0" />
+      <Item value="ChangeTitleOn" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseShared.Messages.ApproveExpenseMessage">
+      <Item value="ApprovalDate" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseShared.Messages.ExpenseMessageBuilder+ApproveExpenseBuilder">
+      <Item value="On" priority="0" />
+      <Item value="Send" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseShared.Messages.ChangeTitleMessage">
+      <Item value="Title" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseShared.Events.TitleChangedOnExpenseEvent">
+      <Item value="Title" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.Builders.EventBuilder">
+      <Item value="ChangeTitleOn" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseShared.Events.ExpenseEventBuilder+TitleChangedOnExpenseBuilder">
+      <Item value="To" priority="0" />
+      <Item value="Publish" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.DDD.Interfaces.IReadRepositoryStrategy">
+      <Item value="GetById" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExpenseShared.Messages.ExpenseMessageBuilder+ChangeTitleBuilder">
+      <Item value="ChangeTitleTo" priority="0" />
+      <Item value="Send" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Foundation.DDD.Interfaces.IWriteRepositoryStrategy">
+      <Item value="Insert" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+</Configuration>

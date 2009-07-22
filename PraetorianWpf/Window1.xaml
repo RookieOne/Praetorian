@@ -1,0 +1,14 @@
+﻿<Window x:Class="PraetorianWpf.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:ViewModels="clr-namespace:PraetorianWpf.ViewModels"
+    Title="Window1"
+        Width="500"
+Height="500">
+    <DockPanel>
+        
+        <ContentControl x:Name="content">            
+        </ContentControl>
+        
+    </DockPanel>
+</Window>

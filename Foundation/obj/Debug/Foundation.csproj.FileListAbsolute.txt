@@ -1,0 +1,27 @@
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Foundation\bin\Debug\Foundation.Contracts.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Foundation\bin\Debug\Foundation.Contracts.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Foundation\bin\Debug\Foundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Foundation\bin\Debug\Foundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Foundation\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Foundation\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Foundation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Foundation\obj\Debug\Foundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Foundation\obj\Debug\Foundation.pdb
+H:\Praetorian\Foundation\bin\Debug\Foundation.Contracts.dll
+H:\Praetorian\Foundation\bin\Debug\Foundation.Contracts.pdb
+H:\Praetorian\Foundation\bin\Debug\Foundation.dll
+H:\Praetorian\Foundation\bin\Debug\Foundation.pdb
+H:\Praetorian\Foundation\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+H:\Praetorian\Foundation\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Praetorian\Foundation\obj\Debug\ResolveAssemblyReference.cache
+H:\Praetorian\Foundation\obj\Debug\Foundation.dll
+H:\Praetorian\Foundation\obj\Debug\Foundation.pdb
+G:\Praetorian\Foundation\bin\Debug\Foundation.dll
+G:\Praetorian\Foundation\bin\Debug\Foundation.pdb
+G:\Praetorian\Foundation\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+G:\Praetorian\Foundation\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Praetorian\Foundation\obj\Debug\ResolveAssemblyReference.cache
+G:\Praetorian\Foundation\obj\Debug\Foundation.dll
+G:\Praetorian\Foundation\obj\Debug\Foundation.pdb
+G:\Praetorian\Foundation\bin\Debug\Foundation.Contracts.dll
+G:\Praetorian\Foundation\bin\Debug\Foundation.Contracts.pdb

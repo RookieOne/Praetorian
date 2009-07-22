@@ -1,0 +1,60 @@
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\NHibExpense.Contracts.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\NHibExpense.Contracts.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\NHibExpense.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\NHibExpense.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\FluentNHibernate.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\NHibernate.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\NHibernate.Linq.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\log4net.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\Iesi.Collections.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\Castle.Core.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\Foundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\Foundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\obj\Debug\NHibExpense.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\obj\Debug\NHibExpense.pdb
+H:\Praetorian\NHibExpense\bin\Debug\NHibExpense.Contracts.dll
+H:\Praetorian\NHibExpense\bin\Debug\NHibExpense.Contracts.pdb
+H:\Praetorian\NHibExpense\bin\Debug\NHibExpense.dll
+H:\Praetorian\NHibExpense\bin\Debug\NHibExpense.pdb
+H:\Praetorian\NHibExpense\bin\Debug\FluentNHibernate.dll
+H:\Praetorian\NHibExpense\bin\Debug\Foundation.dll
+H:\Praetorian\NHibExpense\bin\Debug\NHibernate.dll
+H:\Praetorian\NHibExpense\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+H:\Praetorian\NHibExpense\bin\Debug\Castle.DynamicProxy2.dll
+H:\Praetorian\NHibExpense\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Praetorian\NHibExpense\bin\Debug\NHibernate.Linq.dll
+H:\Praetorian\NHibExpense\bin\Debug\Iesi.Collections.dll
+H:\Praetorian\NHibExpense\bin\Debug\log4net.dll
+H:\Praetorian\NHibExpense\bin\Debug\Castle.Core.dll
+H:\Praetorian\NHibExpense\bin\Debug\Foundation.pdb
+H:\Praetorian\NHibExpense\obj\Debug\ResolveAssemblyReference.cache
+H:\Praetorian\NHibExpense\obj\Debug\NHibExpense.dll
+H:\Praetorian\NHibExpense\obj\Debug\NHibExpense.pdb
+G:\Praetorian\NHibExpense\bin\Debug\NHibExpense.dll
+G:\Praetorian\NHibExpense\bin\Debug\NHibExpense.pdb
+G:\Praetorian\NHibExpense\bin\Debug\FluentNHibernate.dll
+G:\Praetorian\NHibExpense\bin\Debug\Foundation.dll
+G:\Praetorian\NHibExpense\bin\Debug\NHibernate.dll
+G:\Praetorian\NHibExpense\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+G:\Praetorian\NHibExpense\bin\Debug\Castle.DynamicProxy2.dll
+G:\Praetorian\NHibExpense\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Praetorian\NHibExpense\bin\Debug\NHibernate.Linq.dll
+G:\Praetorian\NHibExpense\bin\Debug\Iesi.Collections.dll
+G:\Praetorian\NHibExpense\bin\Debug\log4net.dll
+G:\Praetorian\NHibExpense\bin\Debug\Castle.Core.dll
+G:\Praetorian\NHibExpense\bin\Debug\Foundation.pdb
+G:\Praetorian\NHibExpense\obj\Debug\ResolveAssemblyReference.cache
+G:\Praetorian\NHibExpense\obj\Debug\NHibExpense.dll
+G:\Praetorian\NHibExpense\obj\Debug\NHibExpense.pdb
+G:\Praetorian\NHibExpense\bin\Debug\NHibExpense.Contracts.dll
+G:\Praetorian\NHibExpense\bin\Debug\NHibExpense.Contracts.pdb
+G:\Praetorian\NHibExpense\bin\Debug\ExpenseShared.dll
+G:\Praetorian\NHibExpense\bin\Debug\ExpenseShared.pdb
+H:\Praetorian\NHibExpense\bin\Debug\ExpenseShared.dll
+H:\Praetorian\NHibExpense\bin\Debug\ExpenseShared.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\ExpenseShared.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibExpense\bin\Debug\ExpenseShared.pdb

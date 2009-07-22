@@ -1,0 +1,33 @@
+G:\Praetorian\ExpenseShared\obj\Debug\ResolveAssemblyReference.cache
+G:\Praetorian\ExpenseShared\bin\Debug\ExpenseShared.Contracts.dll
+G:\Praetorian\ExpenseShared\bin\Debug\ExpenseShared.Contracts.pdb
+G:\Praetorian\ExpenseShared\bin\Debug\ExpenseShared.dll
+G:\Praetorian\ExpenseShared\bin\Debug\ExpenseShared.pdb
+G:\Praetorian\ExpenseShared\bin\Debug\Foundation.dll
+G:\Praetorian\ExpenseShared\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Praetorian\ExpenseShared\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+G:\Praetorian\ExpenseShared\bin\Debug\Foundation.pdb
+G:\Praetorian\ExpenseShared\obj\Debug\ExpenseShared.dll
+G:\Praetorian\ExpenseShared\obj\Debug\ExpenseShared.pdb
+H:\Praetorian\ExpenseShared\bin\Debug\ExpenseShared.Contracts.dll
+H:\Praetorian\ExpenseShared\bin\Debug\ExpenseShared.Contracts.pdb
+H:\Praetorian\ExpenseShared\bin\Debug\ExpenseShared.dll
+H:\Praetorian\ExpenseShared\bin\Debug\ExpenseShared.pdb
+H:\Praetorian\ExpenseShared\bin\Debug\Foundation.dll
+H:\Praetorian\ExpenseShared\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Praetorian\ExpenseShared\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+H:\Praetorian\ExpenseShared\bin\Debug\Foundation.pdb
+H:\Praetorian\ExpenseShared\obj\Debug\ResolveAssemblyReference.cache
+H:\Praetorian\ExpenseShared\obj\Debug\ExpenseShared.dll
+H:\Praetorian\ExpenseShared\obj\Debug\ExpenseShared.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseShared\bin\Debug\ExpenseShared.Contracts.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseShared\bin\Debug\ExpenseShared.Contracts.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseShared\bin\Debug\ExpenseShared.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseShared\bin\Debug\ExpenseShared.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseShared\bin\Debug\Foundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseShared\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseShared\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseShared\bin\Debug\Foundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseShared\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseShared\obj\Debug\ExpenseShared.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseShared\obj\Debug\ExpenseShared.pdb

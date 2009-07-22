@@ -1,0 +1,58 @@
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain_Test.Contracts.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain_Test.Contracts.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain_Test.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain_Test.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\Foundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\Foundation_Test.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\Foundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\Foundation_Test.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\obj\Debug\ExpenseDomain_Test.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\obj\Debug\ExpenseDomain_Test.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\nunit.framework.dll
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain_Test.Contracts.dll
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain_Test.Contracts.pdb
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain_Test.dll
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain_Test.pdb
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain.dll
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\Foundation.dll
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\Foundation_Test.dll
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\nunit.framework.dll
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain.pdb
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\Foundation.pdb
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\Foundation_Test.pdb
+H:\Praetorian\ExpenseDomain_Test\obj\Debug\ResolveAssemblyReference.cache
+H:\Praetorian\ExpenseDomain_Test\obj\Debug\ExpenseDomain_Test.dll
+H:\Praetorian\ExpenseDomain_Test\obj\Debug\ExpenseDomain_Test.pdb
+G:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain_Test.dll
+G:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain_Test.pdb
+G:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain.dll
+G:\Praetorian\ExpenseDomain_Test\bin\Debug\Foundation.dll
+G:\Praetorian\ExpenseDomain_Test\bin\Debug\Foundation_Test.dll
+G:\Praetorian\ExpenseDomain_Test\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+G:\Praetorian\ExpenseDomain_Test\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Praetorian\ExpenseDomain_Test\bin\Debug\nunit.framework.dll
+G:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain.pdb
+G:\Praetorian\ExpenseDomain_Test\bin\Debug\Foundation.pdb
+G:\Praetorian\ExpenseDomain_Test\bin\Debug\Foundation_Test.pdb
+G:\Praetorian\ExpenseDomain_Test\obj\Debug\ResolveAssemblyReference.cache
+G:\Praetorian\ExpenseDomain_Test\obj\Debug\ExpenseDomain_Test.dll
+G:\Praetorian\ExpenseDomain_Test\obj\Debug\ExpenseDomain_Test.pdb
+G:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain_Test.Contracts.dll
+G:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain_Test.Contracts.pdb
+G:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseShared.dll
+G:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseShared.pdb
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseShared.dll
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseShared.pdb
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\UnityFoundation.dll
+H:\Praetorian\ExpenseDomain_Test\bin\Debug\UnityFoundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseShared.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\UnityFoundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\UnityFoundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseShared.pdb

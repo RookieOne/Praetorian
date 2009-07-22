@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="UNNAMED" total="16" failures="1" not-run="0" date="2009-07-21" time="22:22:49">
+  <environment nunit-version="2.4.8.0" clr-version="2.0.50727.3074" os-version="Microsoft Windows NT 6.0.6001 Service Pack 1" platform="Win32NT" cwd="C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug" machine-name="LUBU" user="Jonathan" user-domain="Lubu" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite name="UNNAMED" success="False" time="27.862" asserts="0">
+    <results>
+      <test-suite name="C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation_Test\bin\Debug\Foundation_Test.dll" success="True" time="0.037" asserts="0">
+        <results>
+          <test-suite name="Foundation_Test" success="True" time="0.031" asserts="0">
+            <results>
+              <test-suite name="DDD" success="True" time="0.026" asserts="0">
+                <results>
+                  <test-suite name="When_getting_an_entity_not_in_repository" success="True" time="0.001" asserts="0">
+                    <results />
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+      <test-suite name="C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation_Test\bin\Debug\NHibDataFoundation_Test.dll" success="True" time="26.533" asserts="0">
+        <results>
+          <test-suite name="NHibDataFoundation_Test" success="True" time="26.522" asserts="0">
+            <results>
+              <test-suite name="Events" success="True" time="23.015" asserts="0">
+                <results>
+                  <test-suite name="EventRepositoryTests" success="True" time="23.013" asserts="0">
+                    <results>
+                      <test-suite name="When_recording_an_aggregate_event" success="True" time="18.916" asserts="0">
+                        <results>
+                          <test-case name="NHibDataFoundation_Test.Events.EventRepositoryTests.When_recording_an_aggregate_event.Should_save_event_and_aggregate_relation" executed="True" success="True" time="2.550" asserts="2" />
+                          <test-case name="NHibDataFoundation_Test.Events.EventRepositoryTests.When_recording_an_aggregate_event.Should_save_event_as_serialized_xml" executed="True" success="True" time="1.822" asserts="2" />
+                          <test-case name="NHibDataFoundation_Test.Events.EventRepositoryTests.When_recording_an_aggregate_event.Should_save_event_in_database" executed="True" success="True" time="0.029" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite name="When_recording_an_event" success="True" time="4.073" asserts="0">
+                        <results>
+                          <test-case name="NHibDataFoundation_Test.Events.EventRepositoryTests.When_recording_an_event.Should_save_event_as_serialized_xml" executed="True" success="True" time="1.651" asserts="2" />
+                          <test-case name="NHibDataFoundation_Test.Events.EventRepositoryTests.When_recording_an_event.Should_save_event_in_database" executed="True" success="True" time="0.021" asserts="1" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+              <test-suite name="Messages" success="True" time="3.504" asserts="0">
+                <results>
+                  <test-suite name="MessageLogTests" success="True" time="3.496" asserts="0">
+                    <results>
+                      <test-suite name="When_logging_a_message" success="True" time="3.496" asserts="0">
+                        <results>
+                          <test-case name="NHibDataFoundation_Test.Messages.MessageLogTests.When_logging_a_message.Should_save_message_as_serialized_xml" executed="True" success="True" time="1.430" asserts="3" />
+                          <test-case name="NHibDataFoundation_Test.Messages.MessageLogTests.When_logging_a_message.Should_save_message_in_database" executed="True" success="True" time="0.024" asserts="1" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+      <test-suite name="C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\ExpenseDomain_Test.dll" success="False" time="0.758" asserts="0">
+        <results>
+          <test-suite name="ExpenseDomain_Test" success="False" time="0.746" asserts="0">
+            <results>
+              <test-suite name="Aggregates" success="False" time="0.649" asserts="0">
+                <results>
+                  <test-suite name="ExpenseTests" success="False" time="0.647" asserts="0">
+                    <results>
+                      <test-suite name="When_approving_an_expense" success="True" time="0.576" asserts="0">
+                        <results>
+                          <test-case name="ExpenseDomain_Test.Aggregates.ExpenseTests.When_approving_an_expense.Should_have_one_approved_event" executed="True" success="True" time="0.191" asserts="1" />
+                          <test-case name="ExpenseDomain_Test.Aggregates.ExpenseTests.When_approving_an_expense.Should_set_date_on_approved_event" executed="True" success="True" time="0.008" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite name="When_creating_an_expense" success="False" time="0.051" asserts="0">
+                        <results>
+                          <test-case name="ExpenseDomain_Test.Aggregates.ExpenseTests.When_creating_an_expense.Should_create_an_expense" executed="True" success="True" time="0.014" asserts="1" />
+                          <test-case name="ExpenseDomain_Test.Aggregates.ExpenseTests.When_creating_an_expense.Should_only_have_one_event" executed="True" success="False" time="0.018" asserts="1">
+                            <failure>
+                              <message><![CDATA[  Expected: 1
+  But was:  2
+]]></message>
+                              <stack-trace><![CDATA[at ExpenseDomain_Test.Aggregates.ExpenseTests.When_creating_an_expense.Should_only_have_one_event() in C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\Aggregates\ExpenseTests\When_creating_an_expense.cs:line 30
+]]></stack-trace>
+                            </failure>
+                          </test-case>
+                          <test-case name="ExpenseDomain_Test.Aggregates.ExpenseTests.When_creating_an_expense.Should_set_title_on_created_event" executed="True" success="True" time="0.002" asserts="1" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+              <test-suite name="Repositories" success="True" time="0.094" asserts="0">
+                <results>
+                  <test-suite name="ExpenseWriteRepositoryTests" success="True" time="0.092" asserts="0">
+                    <results>
+                      <test-suite name="When_expense_approved_event_is_published" success="True" time="0.056" asserts="0">
+                        <results>
+                          <test-case name="ExpenseDomain_Test.Repositories.ExpenseWriteRepositoryTests.When_expense_approved_event_is_published.should_set_approval_date" executed="True" success="True" time="0.034" asserts="1" />
+                          <test-case name="ExpenseDomain_Test.Repositories.ExpenseWriteRepositoryTests.When_expense_approved_event_is_published.should_update_expense_in_database" executed="True" success="True" time="0.010" asserts="1" />
+                        </results>
+                      </test-suite>
+                      <test-suite name="When_expense_created_event_is_published" success="True" time="0.025" asserts="0">
+                        <results>
+                          <test-case name="ExpenseDomain_Test.Repositories.ExpenseWriteRepositoryTests.When_expense_created_event_is_published.should_add_expense_to_database" executed="True" success="True" time="0.010" asserts="1" />
+                          <test-case name="ExpenseDomain_Test.Repositories.ExpenseWriteRepositoryTests.When_expense_created_event_is_published.should_set_title" executed="True" success="True" time="0.004" asserts="1" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

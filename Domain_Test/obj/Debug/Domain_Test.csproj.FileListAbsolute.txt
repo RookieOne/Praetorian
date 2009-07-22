@@ -1,0 +1,15 @@
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\bin\Debug\Domain_Test.Contracts.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\bin\Debug\Domain_Test.Contracts.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\bin\Debug\Domain_Test.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\bin\Debug\Domain_Test.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\bin\Debug\Domain.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\bin\Debug\Microsoft.Practices.ObjectBuilder2.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\bin\Debug\Microsoft.Practices.ObjectBuilder2.xml
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\bin\Debug\Domain.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\obj\Debug\Domain_Test.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\obj\Debug\Domain_Test.pdb

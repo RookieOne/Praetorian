@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="dd591ef5-c8fa-418c-9b8a-673ffc01f290" name="Jonathan@LUBU 2009-05-31 02:11:04" runUser="Lubu\Jonathan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Default Run Configuration" id="b8972f30-b1f0-489f-9518-b80c9515bc6f">
+    <Deployment runDeploymentRoot="C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\ExpenseDomain_Test\bin\Debug\TestResults\Jonathan_LUBU 2009-05-31 02_11_04" />
+    <Hosts skipUnhostableTests="false" />
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" error="0" failed="3" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2009-05-31T02:11:04.9040000-05:00" queuing="2009-05-31T02:11:27.3890000-05:00" start="2009-05-31T02:11:28.4520000-05:00" finish="2009-05-31T02:11:37.4170000-05:00" />
+  <TestDefinitions>
+    <UnitTest name="Should_create_an_expense" storage="c:\users\jonathan\documents\visual studio 2008\projects\praetorian\expensedomain_test\bin\debug\expensedomain_test.dll" id="e612c7b2-b94b-be1a-df00-8193af270dcf">
+      <Css projectStructure="" iteration="" />
+      <Execution timeOut="1800000" id="897cb6fc-0e67-4881-9e1c-5662ede8ae93" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="C:/Users/Jonathan/Documents/Visual Studio 2008/Projects/Praetorian/ExpenseDomain_Test/bin/Debug/ExpenseDomain_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter" className="ExpenseDomain_Test.ExpenseAggregateTests.WhenCreatingAnExpense, ExpenseDomain_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Should_create_an_expense" />
+    </UnitTest>
+    <UnitTest name="Should_set_title_on_created_event" storage="c:\users\jonathan\documents\visual studio 2008\projects\praetorian\expensedomain_test\bin\debug\expensedomain_test.dll" id="e67ca23b-2c98-8651-9e4e-5f6592059c27">
+      <Css projectStructure="" iteration="" />
+      <Execution timeOut="1800000" id="c9ccbd04-ed62-4f26-ab8e-af0b907c0945" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="C:/Users/Jonathan/Documents/Visual Studio 2008/Projects/Praetorian/ExpenseDomain_Test/bin/Debug/ExpenseDomain_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter" className="ExpenseDomain_Test.ExpenseAggregateTests.WhenCreatingAnExpense, ExpenseDomain_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Should_set_title_on_created_event" />
+    </UnitTest>
+    <UnitTest name="Should_only_have_one_event" storage="c:\users\jonathan\documents\visual studio 2008\projects\praetorian\expensedomain_test\bin\debug\expensedomain_test.dll" id="221e905a-9224-7f2d-0419-7cb4faa009d4">
+      <Css projectStructure="" iteration="" />
+      <Execution timeOut="1800000" id="e764171e-581b-49c3-ad4a-0f8642ba669e" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="C:/Users/Jonathan/Documents/Visual Studio 2008/Projects/Praetorian/ExpenseDomain_Test/bin/Debug/ExpenseDomain_Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter" className="ExpenseDomain_Test.ExpenseAggregateTests.WhenCreatingAnExpense, ExpenseDomain_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Should_only_have_one_event" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="e612c7b2-b94b-be1a-df00-8193af270dcf" executionId="897cb6fc-0e67-4881-9e1c-5662ede8ae93" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="221e905a-9224-7f2d-0419-7cb4faa009d4" executionId="e764171e-581b-49c3-ad4a-0f8642ba669e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e67ca23b-2c98-8651-9e4e-5f6592059c27" executionId="c9ccbd04-ed62-4f26-ab8e-af0b907c0945" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="897cb6fc-0e67-4881-9e1c-5662ede8ae93" testId="e612c7b2-b94b-be1a-df00-8193af270dcf" testName="Should_create_an_expense" computerName="LUBU" duration="00:00:05.6682789" startTime="2009-05-31T02:11:28.8760000-05:00" endTime="2009-05-31T02:11:35.9400000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <Exception>Exception has been thrown by the target of an invocation.</Exception>
+        <ErrorInfo>
+          <Message>Unable to create instance of class ExpenseDomain_Test.ExpenseAggregateTests.WhenCreatingAnExpense. Error:  Microsoft.Practices.Unity.ResolutionFailedException: Resolution of the dependency failed, type = "Foundation.Messages.MessageBroker", name = "". Exception message is: The current build operation (build key Build Key[Foundation.Messages.MessageBroker, null]) failed: The value for the property "DomainRepository" could not be resolved. (Strategy type BuildPlanStrategy, index 3) ---&gt;  Microsoft.Practices.ObjectBuilder2.BuildFailedException: The current build operation (build key Build Key[Foundation.Messages.MessageBroker, null]) failed: The value for the property "DomainRepository" could not be resolved. (Strategy type BuildPlanStrategy, index 3) ---&gt;  System.InvalidOperationException: The value for the property "DomainRepository" could not be resolved. ---&gt;  Microsoft.Practices.ObjectBuilder2.BuildFailedException: The current build operation (build key Build Key[Foundation.DDD.IDomainRepository, null]) failed: The current type, Foundation.DDD.IDomainRepository, is an interface and cannot be constructed. Are you missing a type mapping? (Strategy type BuildPlanStrategy, index 3) ---&gt;  System.InvalidOperationException: The current type, Foundation.DDD.IDomainRepository, is an interface and cannot be constructed. Are you missing a type mapping?.</Message>
+          <StackTrace>    at Microsoft.Practices.ObjectBuilder2.DynamicMethodConstructorStrategy.ThrowForAttemptingToConstructInterface(IBuilderContext context)
+   at BuildUp_Foundation.DDD.IDomainRepository(IBuilderContext )
+   at Microsoft.Practices.ObjectBuilder2.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   at Microsoft.Practices.ObjectBuilder2.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   at Microsoft.Practices.ObjectBuilder2.StrategyChain.ExecuteBuildUp(IBuilderContext context)
+ --- End of inner exception stack trace ---
+    at Microsoft.Practices.ObjectBuilder2.StrategyChain.ExecuteBuildUp(IBuilderContext context)
+   at Microsoft.Practices.Unity.ObjectBuilder.NamedTypeDependencyResolverPolicy.Resolve(IBuilderContext context)
+   at BuildUp_Foundation.Messages.MessageBroker(IBuilderContext )
+ --- End of inner exception stack trace ---
+    at Microsoft.Practices.ObjectBuilder2.DynamicMethodPropertySetterStrategy.ThrowOnFailedPropertyValueResolution(Exception inner, String propertyName)
+   at BuildUp_Foundation.Messages.MessageBroker(IBuilderContext )
+   at Microsoft.Practices.ObjectBuilder2.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   at Microsoft.Practices.ObjectBuilder2.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   at Microsoft.Practices.ObjectBuilder2.StrategyChain.ExecuteBuildUp(IBuilderContext context)
+ --- End of inner exception stack trace ---
+    at Microsoft.Practices.ObjectBuilder2.StrategyChain.ExecuteBuildUp(IBuilderContext context)
+   at Microsoft.Practices.ObjectBuilder2.Builder.BuildUp(IReadWriteLocator locator, ILifetimeContainer lifetime, IPolicyList policies, IStrategyChain strategies, Object buildKey, Object existing)
+   at Microsoft.Practices.Unity.UnityContainer.DoBuildUp(Type t, Object existing, String name)
+ --- End of inner exception stack trace ---
+    at Microsoft.Practices.Unity.UnityContainer.DoBuildUp(Type t, Object existing, String name)
+   at Microsoft.Practices.Unity.UnityContainer.Resolve(Type t, String name)
+   at Microsoft.Practices.Unity.UnityContainerBase.Resolve[T]()
+   at Foundation.Messages.MessageBroker.Setup(IUnityContainer container) in C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Foundation\Messages\MessageBroker.cs:line 21
+   at Foundation_Test.Contexts.DomainContext..ctor() in C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Foundation_Test\Contexts\DomainContext.cs:line 31
+   at ExpenseDomain_Test.Contexts.ExpenseDomainContext..ctor()
+   at ExpenseDomain_Test.ExpenseAggregateTests.WhenCreatingAnExpense..ctor()
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e764171e-581b-49c3-ad4a-0f8642ba669e" testId="221e905a-9224-7f2d-0419-7cb4faa009d4" testName="Should_only_have_one_event" computerName="LUBU" duration="00:00:00.0745428" startTime="2009-05-31T02:11:36.0010000-05:00" endTime="2009-05-31T02:11:36.1260000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <Exception>Exception has been thrown by the target of an invocation.</Exception>
+        <ErrorInfo>
+          <Message>Unable to create instance of class ExpenseDomain_Test.ExpenseAggregateTests.WhenCreatingAnExpense. Error:  Microsoft.Practices.Unity.ResolutionFailedException: Resolution of the dependency failed, type = "Foundation.Messages.MessageBroker", name = "". Exception message is: The current build operation (build key Build Key[Foundation.Messages.MessageBroker, null]) failed: The value for the property "DomainRepository" could not be resolved. (Strategy type BuildPlanStrategy, index 3) ---&gt;  Microsoft.Practices.ObjectBuilder2.BuildFailedException: The current build operation (build key Build Key[Foundation.Messages.MessageBroker, null]) failed: The value for the property "DomainRepository" could not be resolved. (Strategy type BuildPlanStrategy, index 3) ---&gt;  System.InvalidOperationException: The value for the property "DomainRepository" could not be resolved. ---&gt;  Microsoft.Practices.ObjectBuilder2.BuildFailedException: The current build operation (build key Build Key[Foundation.DDD.IDomainRepository, null]) failed: The current type, Foundation.DDD.IDomainRepository, is an interface and cannot be constructed. Are you missing a type mapping? (Strategy type BuildPlanStrategy, index 3) ---&gt;  System.InvalidOperationException: The current type, Foundation.DDD.IDomainRepository, is an interface and cannot be constructed. Are you missing a type mapping?.</Message>
+          <StackTrace>    at Microsoft.Practices.ObjectBuilder2.DynamicMethodConstructorStrategy.ThrowForAttemptingToConstructInterface(IBuilderContext context)
+   at BuildUp_Foundation.DDD.IDomainRepository(IBuilderContext )
+   at Microsoft.Practices.ObjectBuilder2.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   at Microsoft.Practices.ObjectBuilder2.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   at Microsoft.Practices.ObjectBuilder2.StrategyChain.ExecuteBuildUp(IBuilderContext context)
+ --- End of inner exception stack trace ---
+    at Microsoft.Practices.ObjectBuilder2.StrategyChain.ExecuteBuildUp(IBuilderContext context)
+   at Microsoft.Practices.Unity.ObjectBuilder.NamedTypeDependencyResolverPolicy.Resolve(IBuilderContext context)
+   at BuildUp_Foundation.Messages.MessageBroker(IBuilderContext )
+ --- End of inner exception stack trace ---
+    at Microsoft.Practices.ObjectBuilder2.DynamicMethodPropertySetterStrategy.ThrowOnFailedPropertyValueResolution(Exception inner, String propertyName)
+   at BuildUp_Foundation.Messages.MessageBroker(IBuilderContext )
+   at Microsoft.Practices.ObjectBuilder2.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   at Microsoft.Practices.ObjectBuilder2.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   at Microsoft.Practices.ObjectBuilder2.StrategyChain.ExecuteBuildUp(IBuilderContext context)
+ --- End of inner exception stack trace ---
+    at Microsoft.Practices.ObjectBuilder2.StrategyChain.ExecuteBuildUp(IBuilderContext context)
+   at Microsoft.Practices.ObjectBuilder2.Builder.BuildUp(IReadWriteLocator locator, ILifetimeContainer lifetime, IPolicyList policies, IStrategyChain strategies, Object buildKey, Object existing)
+   at Microsoft.Practices.Unity.UnityContainer.DoBuildUp(Type t, Object existing, String name)
+ --- End of inner exception stack trace ---
+    at Microsoft.Practices.Unity.UnityContainer.DoBuildUp(Type t, Object existing, String name)
+   at Microsoft.Practices.Unity.UnityContainer.Resolve(Type t, String name)
+   at Microsoft.Practices.Unity.UnityContainerBase.Resolve[T]()
+   at Foundation.Messages.MessageBroker.Setup(IUnityContainer container) in C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Foundation\Messages\MessageBroker.cs:line 21
+   at Foundation_Test.Contexts.DomainContext..ctor() in C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Foundation_Test\Contexts\DomainContext.cs:line 31
+   at ExpenseDomain_Test.Contexts.ExpenseDomainContext..ctor()
+   at ExpenseDomain_Test.ExpenseAggregateTests.WhenCreatingAnExpense..ctor()
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="c9ccbd04-ed62-4f26-ab8e-af0b907c0945" testId="e67ca23b-2c98-8651-9e4e-5f6592059c27" testName="Should_set_title_on_created_event" computerName="LUBU" duration="00:00:00.1374192" startTime="2009-05-31T02:11:36.1530000-05:00" endTime="2009-05-31T02:11:36.4710000-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <Exception>Exception has been thrown by the target of an invocation.</Exception>
+        <ErrorInfo>
+          <Message>Unable to create instance of class ExpenseDomain_Test.ExpenseAggregateTests.WhenCreatingAnExpense. Error:  Microsoft.Practices.Unity.ResolutionFailedException: Resolution of the dependency failed, type = "Foundation.Messages.MessageBroker", name = "". Exception message is: The current build operation (build key Build Key[Foundation.Messages.MessageBroker, null]) failed: The value for the property "DomainRepository" could not be resolved. (Strategy type BuildPlanStrategy, index 3) ---&gt;  Microsoft.Practices.ObjectBuilder2.BuildFailedException: The current build operation (build key Build Key[Foundation.Messages.MessageBroker, null]) failed: The value for the property "DomainRepository" could not be resolved. (Strategy type BuildPlanStrategy, index 3) ---&gt;  System.InvalidOperationException: The value for the property "DomainRepository" could not be resolved. ---&gt;  Microsoft.Practices.ObjectBuilder2.BuildFailedException: The current build operation (build key Build Key[Foundation.DDD.IDomainRepository, null]) failed: The current type, Foundation.DDD.IDomainRepository, is an interface and cannot be constructed. Are you missing a type mapping? (Strategy type BuildPlanStrategy, index 3) ---&gt;  System.InvalidOperationException: The current type, Foundation.DDD.IDomainRepository, is an interface and cannot be constructed. Are you missing a type mapping?.</Message>
+          <StackTrace>    at Microsoft.Practices.ObjectBuilder2.DynamicMethodConstructorStrategy.ThrowForAttemptingToConstructInterface(IBuilderContext context)
+   at BuildUp_Foundation.DDD.IDomainRepository(IBuilderContext )
+   at Microsoft.Practices.ObjectBuilder2.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   at Microsoft.Practices.ObjectBuilder2.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   at Microsoft.Practices.ObjectBuilder2.StrategyChain.ExecuteBuildUp(IBuilderContext context)
+ --- End of inner exception stack trace ---
+    at Microsoft.Practices.ObjectBuilder2.StrategyChain.ExecuteBuildUp(IBuilderContext context)
+   at Microsoft.Practices.Unity.ObjectBuilder.NamedTypeDependencyResolverPolicy.Resolve(IBuilderContext context)
+   at BuildUp_Foundation.Messages.MessageBroker(IBuilderContext )
+ --- End of inner exception stack trace ---
+    at Microsoft.Practices.ObjectBuilder2.DynamicMethodPropertySetterStrategy.ThrowOnFailedPropertyValueResolution(Exception inner, String propertyName)
+   at BuildUp_Foundation.Messages.MessageBroker(IBuilderContext )
+   at Microsoft.Practices.ObjectBuilder2.DynamicMethodBuildPlan.BuildUp(IBuilderContext context)
+   at Microsoft.Practices.ObjectBuilder2.BuildPlanStrategy.PreBuildUp(IBuilderContext context)
+   at Microsoft.Practices.ObjectBuilder2.StrategyChain.ExecuteBuildUp(IBuilderContext context)
+ --- End of inner exception stack trace ---
+    at Microsoft.Practices.ObjectBuilder2.StrategyChain.ExecuteBuildUp(IBuilderContext context)
+   at Microsoft.Practices.ObjectBuilder2.Builder.BuildUp(IReadWriteLocator locator, ILifetimeContainer lifetime, IPolicyList policies, IStrategyChain strategies, Object buildKey, Object existing)
+   at Microsoft.Practices.Unity.UnityContainer.DoBuildUp(Type t, Object existing, String name)
+ --- End of inner exception stack trace ---
+    at Microsoft.Practices.Unity.UnityContainer.DoBuildUp(Type t, Object existing, String name)
+   at Microsoft.Practices.Unity.UnityContainer.Resolve(Type t, String name)
+   at Microsoft.Practices.Unity.UnityContainerBase.Resolve[T]()
+   at Foundation.Messages.MessageBroker.Setup(IUnityContainer container) in C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Foundation\Messages\MessageBroker.cs:line 21
+   at Foundation_Test.Contexts.DomainContext..ctor() in C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Foundation_Test\Contexts\DomainContext.cs:line 31
+   at ExpenseDomain_Test.Contexts.ExpenseDomainContext..ctor()
+   at ExpenseDomain_Test.ExpenseAggregateTests.WhenCreatingAnExpense..ctor()
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

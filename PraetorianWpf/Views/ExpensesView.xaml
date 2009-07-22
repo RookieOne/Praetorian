@@ -1,0 +1,28 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:ViewModels="clr-namespace:PraetorianWpf.ViewModels"
+    xmlns:ReadDtos="clr-namespace:ExpenseShared.ReadDtos;assembly=ExpenseShared">
+    
+    <DataTemplate DataType="{x:Type ReadDtos:ExpenseDto}">
+    
+        <TextBlock Text="{Binding Title}" />
+        
+    </DataTemplate>
+    
+    <DataTemplate DataType="{x:Type ViewModels:ExpensesViewModel}">
+        
+        <DockPanel>
+        
+            <TextBlock Text="Expenses" />
+            
+            <ListBox ItemsSource="{Binding Expenses}" />
+            
+            
+        </DockPanel>
+        
+        
+        
+        
+    </DataTemplate>
+    
+</ResourceDictionary>

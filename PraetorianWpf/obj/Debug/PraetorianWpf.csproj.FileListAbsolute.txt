@@ -1,0 +1,78 @@
+H:\Praetorian\PraetorianWpf\bin\Debug\PraetorianWpf.Contracts.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\PraetorianWpf.Contracts.pdb
+H:\Praetorian\PraetorianWpf\bin\Debug\PraetorianWpf.exe
+H:\Praetorian\PraetorianWpf\bin\Debug\PraetorianWpf.pdb
+H:\Praetorian\PraetorianWpf\bin\Debug\ExpenseDomain.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\ExpenseShared.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\FluentNHibernate.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\Foundation.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\NHibDataFoundation.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\NHibExpense.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\UnityFoundation.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\Castle.DynamicProxy2.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\NHibernate.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\Iesi.Collections.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\NHibernate.Linq.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\log4net.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\Castle.Core.dll
+H:\Praetorian\PraetorianWpf\bin\Debug\Foundation.pdb
+H:\Praetorian\PraetorianWpf\bin\Debug\ExpenseShared.pdb
+H:\Praetorian\PraetorianWpf\bin\Debug\UnityFoundation.pdb
+H:\Praetorian\PraetorianWpf\bin\Debug\NHibExpense.pdb
+H:\Praetorian\PraetorianWpf\bin\Debug\ExpenseDomain.pdb
+H:\Praetorian\PraetorianWpf\bin\Debug\NHibDataFoundation.pdb
+H:\Praetorian\PraetorianWpf\obj\Debug\ResolveAssemblyReference.cache
+H:\Praetorian\PraetorianWpf\obj\Debug\Window1.g.cs
+H:\Praetorian\PraetorianWpf\obj\Debug\App.g.cs
+H:\Praetorian\PraetorianWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\Praetorian\PraetorianWpf\obj\Debug\PraetorianWpf_MarkupCompile.cache
+H:\Praetorian\PraetorianWpf\obj\Debug\PraetorianWpf_MarkupCompile.lref
+H:\Praetorian\PraetorianWpf\obj\Debug\Views\ExpensesView.baml
+H:\Praetorian\PraetorianWpf\obj\Debug\Window1.baml
+H:\Praetorian\PraetorianWpf\obj\Debug\PraetorianWpf.g.resources
+H:\Praetorian\PraetorianWpf\obj\Debug\PraetorianWpf.Properties.Resources.resources
+H:\Praetorian\PraetorianWpf\obj\Debug\PraetorianWpf.csproj.GenerateResource.Cache
+H:\Praetorian\PraetorianWpf\obj\Debug\PraetorianWpf.exe
+H:\Praetorian\PraetorianWpf\obj\Debug\PraetorianWpf.pdb
+H:\Praetorian\PraetorianWpf\obj\Debug\App.baml
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\PraetorianWpf.Contracts.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\PraetorianWpf.Contracts.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\PraetorianWpf.exe
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\PraetorianWpf.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\ExpenseDomain.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\ExpenseShared.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\FluentNHibernate.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\Foundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\NHibDataFoundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\NHibExpense.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\UnityFoundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\NHibernate.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\Iesi.Collections.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\NHibernate.Linq.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\log4net.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\Castle.Core.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\Foundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\ExpenseShared.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\UnityFoundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\NHibExpense.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\ExpenseDomain.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\bin\Debug\NHibDataFoundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\obj\Debug\App.baml
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\obj\Debug\Window1.g.cs
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\obj\Debug\App.g.cs
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\obj\Debug\PraetorianWpf_MarkupCompile.cache
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\obj\Debug\PraetorianWpf_MarkupCompile.lref
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\obj\Debug\Views\ExpensesView.baml
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\obj\Debug\Window1.baml
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\obj\Debug\PraetorianWpf.g.resources
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\obj\Debug\PraetorianWpf.Properties.Resources.resources
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\obj\Debug\PraetorianWpf.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\obj\Debug\PraetorianWpf.exe
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\PraetorianWpf\obj\Debug\PraetorianWpf.pdb

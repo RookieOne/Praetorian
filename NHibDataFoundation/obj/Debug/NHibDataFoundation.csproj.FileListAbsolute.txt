@@ -1,0 +1,54 @@
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\bin\Debug\NHibDataFoundation.Contracts.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\bin\Debug\NHibDataFoundation.Contracts.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\bin\Debug\NHibDataFoundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\bin\Debug\NHibDataFoundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\bin\Debug\FluentNHibernate.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\bin\Debug\Foundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\bin\Debug\NHibernate.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\bin\Debug\NHibernate.Linq.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\bin\Debug\Iesi.Collections.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\bin\Debug\log4net.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\bin\Debug\Castle.Core.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\bin\Debug\Foundation.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\obj\Debug\NHibDataFoundation.dll
+C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\NHibDataFoundation\obj\Debug\NHibDataFoundation.pdb
+H:\Praetorian\NHibDataFoundation\obj\Debug\ResolveAssemblyReference.cache
+H:\Praetorian\NHibDataFoundation\obj\Debug\NHibDataFoundation.dll
+H:\Praetorian\NHibDataFoundation\bin\Debug\NHibDataFoundation.Contracts.dll
+H:\Praetorian\NHibDataFoundation\bin\Debug\NHibDataFoundation.Contracts.pdb
+H:\Praetorian\NHibDataFoundation\bin\Debug\NHibDataFoundation.dll
+H:\Praetorian\NHibDataFoundation\bin\Debug\NHibDataFoundation.pdb
+H:\Praetorian\NHibDataFoundation\bin\Debug\FluentNHibernate.dll
+H:\Praetorian\NHibDataFoundation\bin\Debug\Foundation.dll
+H:\Praetorian\NHibDataFoundation\bin\Debug\NHibernate.dll
+H:\Praetorian\NHibDataFoundation\bin\Debug\NHibernate.Linq.dll
+H:\Praetorian\NHibDataFoundation\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+H:\Praetorian\NHibDataFoundation\bin\Debug\Castle.DynamicProxy2.dll
+H:\Praetorian\NHibDataFoundation\bin\Debug\Microsoft.Practices.Unity.dll
+H:\Praetorian\NHibDataFoundation\bin\Debug\Iesi.Collections.dll
+H:\Praetorian\NHibDataFoundation\bin\Debug\log4net.dll
+H:\Praetorian\NHibDataFoundation\bin\Debug\Castle.Core.dll
+H:\Praetorian\NHibDataFoundation\bin\Debug\Foundation.pdb
+H:\Praetorian\NHibDataFoundation\obj\Debug\NHibDataFoundation.pdb
+G:\Praetorian\NHibDataFoundation\bin\Debug\NHibDataFoundation.dll
+G:\Praetorian\NHibDataFoundation\bin\Debug\NHibDataFoundation.pdb
+G:\Praetorian\NHibDataFoundation\bin\Debug\FluentNHibernate.dll
+G:\Praetorian\NHibDataFoundation\bin\Debug\Foundation.dll
+G:\Praetorian\NHibDataFoundation\bin\Debug\NHibernate.dll
+G:\Praetorian\NHibDataFoundation\bin\Debug\NHibernate.Linq.dll
+G:\Praetorian\NHibDataFoundation\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+G:\Praetorian\NHibDataFoundation\bin\Debug\Castle.DynamicProxy2.dll
+G:\Praetorian\NHibDataFoundation\bin\Debug\Microsoft.Practices.Unity.dll
+G:\Praetorian\NHibDataFoundation\bin\Debug\Iesi.Collections.dll
+G:\Praetorian\NHibDataFoundation\bin\Debug\log4net.dll
+G:\Praetorian\NHibDataFoundation\bin\Debug\Castle.Core.dll
+G:\Praetorian\NHibDataFoundation\bin\Debug\Foundation.pdb
+G:\Praetorian\NHibDataFoundation\obj\Debug\ResolveAssemblyReference.cache
+G:\Praetorian\NHibDataFoundation\obj\Debug\NHibDataFoundation.dll
+G:\Praetorian\NHibDataFoundation\obj\Debug\NHibDataFoundation.pdb
+G:\Praetorian\NHibDataFoundation\bin\Debug\NHibDataFoundation.Contracts.dll
+G:\Praetorian\NHibDataFoundation\bin\Debug\NHibDataFoundation.Contracts.pdb

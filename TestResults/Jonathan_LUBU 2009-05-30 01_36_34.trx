@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="acd9e7d0-47ef-43ae-a5bf-f594e00d085a" name="Jonathan@LUBU 2009-05-30 01:36:34" runUser="Lubu\Jonathan" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Local Test Run" id="6cfbc88a-9d32-4c09-a0af-ac6f582e54a5">
+    <Description>This is a default test run configuration for a local test run.</Description>
+    <Deployment userDeploymentRoot="C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\TestResults\Jonathan_LUBU 2009-05-30 01_36_34">
+      <DeploymentItem filename="C:\Program Files\Microsoft Unity Application Block 1.2\Bin\Microsoft.Practices.Unity.dll" />
+      <DeploymentItem filename="C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain\bin\Debug\Domain.dll" />
+      <DeploymentItem filename="C:\Program Files\Microsoft Unity Application Block 1.2\Bin\Microsoft.Practices.ObjectBuilder2.dll" />
+    </Deployment>
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="LUBU" outcome="Error" timestamp="2009-05-30T01:36:51.9296386-05:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <Times creation="2009-05-30T01:36:34.1746386-05:00" queuing="2009-05-30T01:36:39.9406386-05:00" start="2009-05-30T01:36:40.7736386-05:00" finish="2009-05-30T01:36:51.9296386-05:00" />
+  <TestDefinitions>
+    <UnitTest name="Should_only_have_one_event" storage="c:\users\jonathan\documents\visual studio 2008\projects\praetorian\domain_test\bin\debug\domain_test.dll" id="58885615-07b9-c177-64c0-4e0ce7d690e0">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <TestMethod codeBase="C:\Users\Jonathan\Documents\Visual Studio 2008\Projects\Praetorian\Domain_Test\bin\Debug\Domain_Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Domain_Test.DomainObjects.ExpenseTests.WhenCreatingAnExpense, Domain_Test" name="Should_only_have_one_event" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="58885615-07b9-c177-64c0-4e0ce7d690e0" executionId="dd8c9009-2916-4cdd-a194-70bafbb4362f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="dd8c9009-2916-4cdd-a194-70bafbb4362f" testId="58885615-07b9-c177-64c0-4e0ce7d690e0" testName="Should_only_have_one_event" computerName="LUBU" duration="00:00:10.5700000" startTime="2009-05-30T01:36:41.3596386-05:00" endTime="2009-05-30T01:36:51.9296386-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+    </UnitTestResult>
+  </Results>
+</TestRun>
